@@ -1,0 +1,282 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "cards-notes",
+    "section": "",
+    "text": "This is a collection of cardiology notes. This is not comprehensive and should not be used to make medical judgment(s) without the requisite medical training and/or supervision."
+  },
+  {
+    "objectID": "pulse-pressure.html",
+    "href": "pulse-pressure.html",
+    "title": "1  Pulse Pressure",
+    "section": "",
+    "text": "\\[\n\\text{Pulse Pressure} = \\text{SBP} - \\text{DBP}\n\\]\n\nthe difference between SBP and DBP\nnormal PP is \\(\\approx 40 \\ \\text{mm Hg}\\)\nnarrow PP: \\(\\text{PP} < 0.25 \\times \\text{SBP}\\)\n\ne.g. if SBP is 100 mmHg, then a PP < 25 would be considered “narrow”\nmay indicate a “low-output” state in the setting of HF; associated with ↑ mortality in HFrEF\n\nwide PP: \\(\\text{PP} > 100 \\ \\text{mm Hg}\\)\nDeviations in PP that are “normal”\n\nEndurance runners may have an increased PP\nElderly pts may have a widened PP due to ↓ compliance of the large elastic aa. (“hardening of the arteries”)\n\nLV contracts against stiffer, less compliant aa. → both SBP and DBP ↑ and widening of PP\n\n\nSee Cardiogenic Shock (Chapter 9)"
+  },
+  {
+    "objectID": "hypertension.html",
+    "href": "hypertension.html",
+    "title": "2  Hypertension",
+    "section": "",
+    "text": "The USPSTF recommends HTN screening for those 18+ yo with office BP measurement and confirmation with out-of-clinic measurements (Grade A)"
+  },
+  {
+    "objectID": "hypertension.html#flavors-of-htn",
+    "href": "hypertension.html#flavors-of-htn",
+    "title": "2  Hypertension",
+    "section": "2.2 Flavors of HTN",
+    "text": "2.2 Flavors of HTN\n\nElevated BP\nStage I HTN\nStage II HTN\nResistant HTN\nRefractory HTN\nHTN urgency\nHTN emergency"
+  },
+  {
+    "objectID": "hypertension.html#inpatient-htn",
+    "href": "hypertension.html#inpatient-htn",
+    "title": "2  Hypertension",
+    "section": "2.3 Inpatient HTN",
+    "text": "2.3 Inpatient HTN\n\n2.3.1 Inpatient BP Management\nSatya Patel from UCLA has a phenomenal resource he’s put together on this. I first caught wind of it from his tweet. This is part of the much larger UCLA Inpatient Pocket Card Set available at http://bit.ly/pocketcardset.\n\n\n\nSource: UCLA IM Pocket Card Set\n\n\n\n\n\nGo-to list of night float medications by class. Source: Satya Patel’s Inpatient Management of Hypertension Summary.\n\n\n\n\n2.3.2 Hypertensive Crises\n\n\n\n\n\n\nHeadache does not count as evidence of end-organ injury when evaluating a patient for hypertensive emergency\n\n\n\n\n\n\n\nHypertensive Urgency\n\nTODO: read the “Things We Do For No Reason” on Acute Treatment of Hypertensive Urgency\n\nHypertensive Emergency\n\nIn patients with acute ischemic stroke, BP >220/120, and did not receive tPA, reasonable to lower BP by 15% in the first 24 hours\nIn patients with acute ischemic stroke, BP <220/120, and did not receive tPA, do not need to initiate hypertension treatment within the first 48-72 hours\nInitiate or re-start antihypertensives ~72 hours after acute ischemic stroke to maintain a BP <140/90\n\n\n\n\n\nSource: Satya Patel’s Inpatient Management of Hypertension Summary\n\n\n\n\n2.3.3 Things to know\n\nInpatient BP tends to be higher then Outpatient BPs by ~ 7/3 mmHg (Cappelleri et al. 2017)\nIntensifying antihypertensive meds at hospital discharge is associated with an ↑ risk of readmission and serious adverse events within 30 days. Moreover, outpatient BP was comparable to pre-intensification. (Anderson et al. 2019) (Swapnil 🧵: link)\nPolypharmacy among elderly patients often includes anti-HTN meds. OPTIMISE study: non-inferioty study; RCT of 569 patients > 80 yo comparing anti-HTN medication reduction (stop 1 med) to usual care → anti-HTN med reduction was non-inferior to usual care. (Sheppard et al. 2020)\nDoes pain cause ↑ BP? (thread)\n\nYes, can cause transient ↑ SBP up to 30 mmHg\nMechanism: pain affects the HPA axis and increases sympathetic tone (Saccò et al. 2013)\n\n\n\n\n\n\nAnderson, Timothy S., Bocheng Jing, Andrew Auerbach, Charlie M. Wray, Sei Lee, W. John Boscardin, Kathy Fung, Sarah Ngo, Molly Silvestrini, and Michael A. Steinman. 2019. “Clinical Outcomes After Intensifying Antihypertensive Medication Regimens Among Older Adults at Hospital Discharge.” JAMA Internal Medicine 179 (11): 1528–36. https://doi.org/10.1001/jamainternmed.2019.3007.\n\n\nCappelleri, Claudia, Alin Janoschka, Reto Berli, Sibylle Kohler, Ruediger C. Braun-Dullaeus, Ludwig T. Heuss, and Mathias Wolfrum. 2017. “Twenty-Four-Hour Ambulatory Blood Pressure Monitoring in Very Elderly Patients: Comparison of in-Hospital Versus Home Follow-up Results.” Medicine 96 (34): e7692. https://doi.org/10.1097/MD.0000000000007692.\n\n\nSaccò, Marcella, Michele Meschi, Giuseppe Regolisti, Simona Detrenis, Laura Bianchi, Marcello Bertorelli, Sarah Pioli, et al. 2013. “The Relationship Between Blood Pressure and Pain.” The Journal of Clinical Hypertension 15 (8): 600–605. https://doi.org/10.1111/jch.12145.\n\n\nSheppard, James P., Jenni Burt, Mark Lown, Eleanor Temple, Rebecca Lowe, Rosalyn Fraser, Julie Allen, et al. 2020. “Effect of Antihypertensive Medication Reduction Vs Usual Care on Short-Term Blood Pressure Control in Patients with Hypertension Aged 80 Years and Older: The OPTIMISE Randomized Clinical Trial.” JAMA 323 (20): 2039–51. https://doi.org/10.1001/jama.2020.4871."
+  },
+  {
+    "objectID": "cad.html",
+    "href": "cad.html",
+    "title": "3  Coronary Artery Disease (CAD)",
+    "section": "",
+    "text": "CAD\n    - BMP, CBC\n    - A1c\n    - Lipids\n    - TSH w/ reflex\n- Treatment\n    - ASA 162/325 (if indicated)\n    - BB\n    - Other anti-anginal: CCB (if unable to tolerate BB), nitrates (long-acting if refractory to BB), ranolazine (adjunct to BB)\n    - Anti-platelet: ASA +/- clopidogrel\n    - Statin\n    - Optimize BP control, e.g. ACEi/ARB\n    - Optimize glycemic control in pts w/ DM\n- Lifestyle modifications\n    - Smoking cessation\n    - Exercise\n    - Weight loss\n- Diet: low fat, low cholesterol"
+  },
+  {
+    "objectID": "cad.html#angina",
+    "href": "cad.html#angina",
+    "title": "3  Coronary Artery Disease (CAD)",
+    "section": "3.1 Angina",
+    "text": "3.1 Angina\n\nAnti-anginal agents\n\nβ-blockers\nnitrates\nCCBs\nranolazine - if persistent angina despite maximal standard therapy\ncolchicine\n\nStable angina in women: women will present older, describe “burning” and “tenderness” more frequently than men.\nExacerbating factors\n\nexertion\ncold weather\nemotional: anger, stress\nlarge meals\n\nAssociated symptoms\n\ndyspnea\nnausea or indigestion\npain elsewhere(eg, jaw, neck, teeth, back, abdomen)\npalpitations\nweakness and fatigue\nsyncope"
+  },
+  {
+    "objectID": "cad.html#unstable-angina",
+    "href": "cad.html#unstable-angina",
+    "title": "3  Coronary Artery Disease (CAD)",
+    "section": "3.2 Unstable angina",
+    "text": "3.2 Unstable angina\n\n“Unstable” angina is characterized by one or more of the following:\n\npain at rest\nnew onset\n↑ frequency"
+  },
+  {
+    "objectID": "chest-pain.html",
+    "href": "chest-pain.html",
+    "title": "4  Chest Pain",
+    "section": "",
+    "text": "Chest pain, *** typical/atypical/non-cardiac\n- HEART score: ***, TIMI score: ***\n- EKG\n- Labs\n    - Trop/hs-Trop - trend q3-4h/1-2h\n    - BMP, CBC\n    - A1c\n    - Lipids\n    - TSH w/ reflex\n- Stress test?\n- ACS protocol?\n- Echo?"
+  },
+  {
+    "objectID": "chest-pain.html#serious-6-causes-of-chest-pain",
+    "href": "chest-pain.html#serious-6-causes-of-chest-pain",
+    "title": "4  Chest Pain",
+    "section": "4.1 Serious 6 causes of Chest Pain",
+    "text": "4.1 Serious 6 causes of Chest Pain\n\nSerious 6 life-threatening causes of Chest Pain (PET MAC)\n\nPE\nEsophageal rupture\nTension PTX\nMI\nAortic dissection\nCardiac tamponade\nOther emergenct causes: Takotsubo cardiomyopathy, esophageal impaction"
+  },
+  {
+    "objectID": "chest-pain.html#history-elements",
+    "href": "chest-pain.html#history-elements",
+    "title": "4  Chest Pain",
+    "section": "4.2 History Elements",
+    "text": "4.2 History Elements\n\nOLD CARTS\n\n\n\nHx:\n\nDescription: pressure, burning, aching, squeezing, piercing\nDuration of Sx: acute vs. chronic\nDenied palpitations. radiation of pain, abdominal pain, nausea, vomiting, diaphoresis, or change in appetite.\nPain is not made worse with deep inspiration or sudden movements. No other palliative or provocative features.\nDenied fevers, chills, cough, no increased sputum production.\nDenied dysphagia, globus sensation.\n\nHx that decreases the likelihood of MI:\n\npleuritic pain\nsharp or stabbing pain\npositional pain"
+  },
+  {
+    "objectID": "chest-pain.html#cardiac-risk-factors",
+    "href": "chest-pain.html#cardiac-risk-factors",
+    "title": "4  Chest Pain",
+    "section": "4.3 Cardiac Risk Factors",
+    "text": "4.3 Cardiac Risk Factors\n\nHTN, DM, HLD\nfamily history\nperipheral vascular disease\nCVA\nCKD/ESRD\nInflammation/Rheum or elevated inflammatory markers\nTobacco use\nRecreational drug use: cocaine\nLifestyle\n\npoor diet\nsedentary\nobesity"
+  },
+  {
+    "objectID": "chest-pain.html#clinical-decision-rules",
+    "href": "chest-pain.html#clinical-decision-rules",
+    "title": "4  Chest Pain",
+    "section": "4.4 Clinical Decision Rules",
+    "text": "4.4 Clinical Decision Rules\n\nHEART score\nTIMI score"
+  },
+  {
+    "objectID": "chest-pain.html#causes-of-chest-pain",
+    "href": "chest-pain.html#causes-of-chest-pain",
+    "title": "4  Chest Pain",
+    "section": "4.5 Causes of Chest Pain",
+    "text": "4.5 Causes of Chest Pain\n\n4.5.1 Cardiac Causes\n\nACS: UA, NSTEMI, STEMI\nPericarditis/Myocarditis\nStable angina\n\n\n\n\n\n\n\n\nClassification\nSymptoms\n\n\n\n\nTypical angina\n\nSubsternal chest discomfort\nProvoked by exertion/emotional stress\nRelieved by rest or nitroglycerin\n\n\n\nAtypical angina\nmeets 2 of the 3\n\n\nNoncardiac chest pain\nmeets 1 or none of the 3\n\n\n\n\n\n4.5.2 Non-Cardiac of Chest Pain\n\n\n\n\n\n\nWarning\n\n\n\nMSK disorders and GERD are common causes of CP that can mimic angina (worse w/ activity, sensation of pressure).\n\n\n\nMSK: costochondritis, rib fx, precordial catch syndrome, Tietze syndrome, pectoral mm. strain, C4-T6 spondylosis, myositis\nBreast: fibroadenomas, mastitis, gynecomastia\nDerm: herpes zoster\nEsophageal/GI: esophageal rupture, esophageal impaction, esophagitis, esophageal ulcer, esophageal spasm, GERD, PUD, malignancy, GB disease, liver abscess, pancreatitis, liver abscess\nPulm: PNA, PE, pleural effusion, lung mass, mediastinal abnormalities, pericardial disease, diaphragmatic hernia\nMediastinum: fat necrosis, thymoma, lymphoma\nReferred pain from abdominal process\nPsych: panic, anxiety\nClues from history regarding esophageal causes of CP:\n\nodynophagia -> esophagitis, esophageal ulcer\ndysphagia -> GERD, esophageal cancer (RFs include smoking, EtOH, chronic reflux)\nacute pain after retching -> esophageal rupture (Boerhaave syndrome)\nintermittent CP and dysphagia -> esophageal spasm or motility disorders\n\n\nStudy of 100 patients showing prevalence of history findings in cardiac versus esophageal etiology of CP:\n\n\n\n\n\n\n\n\nSymptom\nAmong patients with cardiac cause (%)\nAmong patients with esophageal cause (%)\n\n\n\n\nLateral radiation\n69\n11\n\n\nMore than 1 spontaneous episode per month\n13\n50\n\n\nPain persists as ache for several hours\n25\n78\n\n\nNighttime wakening caused by pain\n25\n61\n\n\nProvoked by swallowing\n6\n39\n\n\nProvoked by recumbency or stooping\n19\n61\n\n\nVariable exercise tolerance\n10\n39\n\n\nPain starts after exercise completed\n4\n33\n\n\nPain relieved by antacid\n10\n44\n\n\nPresence of heartburn\n17\n78\n\n\nPresence of regurgitation\n17\n67\n\n\nPresence of GI symptoms\n46\n83\n\n\n\n\n\n\n\n\n\nNitroglycerin response cannot discern cardiac vs other causes of CP\n\n\n\n“history cannot differentiate esophageal chest pain from pain due to cardiac ischemia. That said, pain that occurs with swallowing, is persistent, wakes the patient from sleep, is positional, and is associated with heartburn or regurgitation is more likely to be of esophageal origin… The effect of nitroglycerin in relieving chest pain has consistently been found to be useless in differentiating anginal chest pain from esophageal or other causes of chest pain.” (Source: Symptom to Diagnosis)"
+  },
+  {
+    "objectID": "heart-failure.html",
+    "href": "heart-failure.html",
+    "title": "5  Heart Failure",
+    "section": "",
+    "text": "Acute (on chronic?) systolic (or diastolic) dysfunction - \n- ACC/AHA Stage ***, NYHA Class ***, Stevenson Profile *** (A, B, C, L)\n- *** Exam with S3, elevated JVP, skin is warm, dry\n- Presence of ICD/ppm?\n- Last EF?\n- Work-up:\n       - EKG: \n       - Imaging: CXR, Echo\n       - Labs: BNP, Trop\n- Preload: IV diuresis - DOSE trial (2.5x home dose), TDD of home diuretic x2 and give as BID/TID for 48-72 hrs\n    - If fails to respond, consider adding 5 mg metolazone 1x and reassess\n- Afterload: **continue outpatient ARNI/ARB/ACEi/aldosterone antagonist and beta blocker during diuresis if blood pressure allows (Train et al, 2018)\n- Neurohormonal: \n- R/R:\n- Ischemia: statin, ASA\n- If pt reports muscle aches: give some oral magnesium oxide\n- Diet: salt-restricted diet. If class D HF, consider FWR\n  - Sodium restriction: 2-3 g daily\n- Labs: monitor lytes; maintain K > 4, Mg > 2\n    - BID labs?\n    - Monitor HCO3 in COPD pts b/c they can start to retain CO2 (resp acidosis) to compensate for metabolic alkalosis d/t diuresis\n    - Replete Cl to avoid metabolic alkalosis (esp in COPD pts), e.g. w/ KCl\n- Indication for ICD or CRT?\n- If HFrEF and *iron-deficiency* (w/ or w/o anemia) defined as ferritin < 100 or \nferritin 100-299 + transferrin sat < 20% -> IV iron for functional and Sx \nimprovement. Studies of the effect on mortality and hospitalization are ongoing, \nas are studies in pts w/ HFpEF.\n- If HFpEF - consider spironolactone if elevated BNP, SGLT2i if T2DM\n- Encourage lifestyle modifications and optimize co-morbidities\n- Daily standing weights\n- Strict I/O\n- Be mindful of fluids\n  - e.g. KVO @ 10 cc/hr -> 2.16g Na/d\n  - 1L of NS contains 9g of NaCl versus 1L of LR contains 6g\n- Dispo planning\n  - Daily home weights; procure weigh scale if needed\n  - f/u in clinic w/in 1 week of discharge; f/u K, Cr and meds"
+  },
+  {
+    "objectID": "heart-failure.html#classifications-of-hf",
+    "href": "heart-failure.html#classifications-of-hf",
+    "title": "5  Heart Failure",
+    "section": "5.2 Classifications of HF",
+    "text": "5.2 Classifications of HF\n\nHF = Si/Sx of HF caused by a structural and/or functional cardiac abnormality plus one of the following:\n\nelevated BNP\nobjective evidence of cardiogenic pulmonary or systemic congestion\n\nHF with LVEF ≤ 40% (HFrEF)\nHF with LVEF 41-49% (HFmrEF) – HF with mid-range EF\nHF with LVEF ≥ 50% (HFpEF)\nHF with improved EF (HFimpEF)\nSource: Curbsiders tweet from Dr. Yancy’s presentation"
+  },
+  {
+    "objectID": "heart-failure.html#precipitants-of-hf",
+    "href": "heart-failure.html#precipitants-of-hf",
+    "title": "5  Heart Failure",
+    "section": "5.3 Precipitants of HF",
+    "text": "5.3 Precipitants of HF\n\n\n\n\n\n\nWarning\n\n\n\nBe mindful of Na+ load from ‘Keep Vein Open’ IVF. KVO w/ NS @ 10cc/hr → 240 mL → 2.16g of Na+. Tweet\n\n\nFAILURES mnemonic: Source\n\nForgetting medication (or taking beta blockers, NSAIDs, methamphetamine, or cocaine)\nArrhythmia or Anemia\nIschemia or Infarction\nLifestyle choices including dietary indiscretions.\nUpregulation of cardiac demand from either pregnancy or hyperthyroidism.\nRenal failure from progression of kidney disease or insufficient dialysis.\nEmbolus (pulmonary embolism)\nStenosis from worsening renal artery stenosis, aortic stenosis, or other valvular disease."
+  },
+  {
+    "objectID": "heart-failure.html#work-up",
+    "href": "heart-failure.html#work-up",
+    "title": "5  Heart Failure",
+    "section": "5.4 Work-up",
+    "text": "5.4 Work-up\n\nExam\n\nJVD: +LR 5\nPresence of S3: +LR 11\n\nWork-up for new-onset HF should include:\n\nTSH\nHIV\nCAD evaluation\nSubstance abuse screening: EtOH, cocaine, methamphetamines\nIf HFpEF + low-voltage EKG, consider amyloidosis\n\nNa+ < 125 or ↓ by > 3 during admission is associated with ↑ mortality\n\n\n\n\n\n\n\nNote\n\n\n\nNeprolysin inhibitors (ARNIs) can artificially ↑ BNP\n\n\n\nBNP > 100 pg/mL is predictive of HF ( > 200 if AFib)\n\nObesity artificially lowers BNP\nElevators of BNP include female, AFib, ACS, LVH, old age, CKD, etc.\n\nNT-proBNP < 300 pg/mL excludes HF\n\nAge cutoffs: < 450 pg/mL for < 50 yo, < 900 pg/mL for 50-75 yo, < 1800 pg/mL for > 75 yo\n\nEKG\nCXR\nEcho\n\nRVSP can estimate PA pressure (PASP)\n\nconsider possibility of Pulm HTN in those w/ RVSP > 40 mmHg + dyspnea (ACC/AHA)\n\n\n\n\n\n\nHeart Failure Schema (by Jorge Cortes)"
+  },
+  {
+    "objectID": "heart-failure.html#medications",
+    "href": "heart-failure.html#medications",
+    "title": "5  Heart Failure",
+    "section": "5.5 Medications",
+    "text": "5.5 Medications\n\n\n\nQuadruple Therapy in HFrEF with demonstrable mortality benefit.\n\n\n\nBeta-blockers: metoprolol XL, carvedilol, bisoprolol\nACEi/ARB\nARNI - sacubitril/valsartan (Entresto); See Chapter 12\nDiuretics - see NEJM review article\n\nGoal fluid removal\n\nHFpEF: 1-2L net negative per day\nHFrEF: at least 2L net neg per day (“as much as Cr and BP will tolerate”)\nIf the diuretic response has not begun within a couple hours, increase the dose immediately instead of waiting until the next scheduled dose.\nLoops, such as Lasix, Bumex, Torsemide\n\nConversions: 40 mg PO Lasix = 20 mg PO torsemide = 1 mg Bumex\nLasix dosing:\n\nBUN x 2\nHouse of God - BUN + age\nJoel Topf - Cr x 20\n\nDosing during acute episode - \\(\\text{home dose} \\times 2\\) in IV form administered BID/TID for 48-72hrs (Clyde Yancy)\n\nDOSE trial - no diff b/w continuous diuresis vs intermittent IV boluses\n\nNEJM tidbits:\n\nPO Lasix bioavailability is highly variable (mean, approximately 50%; range, 10 to 90). By contrast, bumex and torsemide have higher and more consistent oral bioavailability.\nPO and IV doses of bumex and torsemide are equivalent b/c they do not have absorption-limited kinetics\nTorsemide has a longer half-life in pts w/ HF (6 hrs) than Lasix (2.7 hrs) or Bumex (1.3 hrs). Thus, in theory torsemide should be more effective, but the data doesn’t really pan out.\nTorsemide vs. Lasix: Torsemide reduces hospital readmissions for HF (DiNicolantonio 2012)\nRemember that during acute decompensated HF, Na retention is more avid\n\nBob Centor gives Torsemide (prefers once daily) to new HF pts and existing HF pts who req’d metolazone during hospitalization. He’ll then Rx metolazone PRN (based on daily weights). (Source)\nMichelle Kittleson recommends transitioning to an oral diuretic dose before discharge that results in 500 cc net negative in 24 hours (expert opinion). Rationale: Patients eat and drink more at home. (Source)\n\nAldosterone antagonists\n\nCrCl > 30 + K < 5\nuseful in HFpEF pts w/ elevated BNP\nstart at 12.5 mg daily w/ repeat K, Cr in 1 week\n\nMetolazone can take > 24 hrs for the effect to be seen (Dr. Ooi)\n\n\nSGLT2i (e.g. dapagliflozin)\n\nDAPA-HF trial: Among individuals with HFrEF (NYHA 2-4, LVEF ≤40%) with or without T2DM, the addition of dapagliflozin decreased rates of CV death or worsening HF, as well as all-cause mortality. (McMurray et al. 2019)\n\nFDA approved SGLT2i in pts w/ HFrEF with or without T2DM.\n\n\nIV iron [FAIR-HF trial]\n\nif iron-deficiency +/- anemia\n\nferritin < 100 or ferritin 100-299 + Tsat < 20% to improve functional status and QoL\n\noral iron replacement is not effective [IRONOUT-HF trial]\n\nVericiguat\n\n\n\n\nHeart Failure Schema (by Jorge Cortes)\n\n\nResources\n\nPatient Page: Heart Failure (Baman and Ahmad 2020)\nAssociation of Optimal Implementation of Sodium-Glucose Cotransporter 2 Inhibitor Therapy With Outcome for Patients With Heart Failure (Bassi et al. 2020)\nHeart Failure With Reduced Ejection Fraction: A Review (Murphy, Ibrahim, and Januzzi 2020)\n\nThe FDA approved use of the SGLT2 inhibitor dapagliflozin for treatment of HFrEF irrespective of diabetes status is expected to become GDMT for all patients with HFrEF in the 2021 ACC/AHA HF guidelines\n\nQuadruple Therapy is the New Standard of Care for HFrEF (Ahmad and Desai 2020)\nPodcasts\n\nAcute Decompensated Heart Failure (The Curbsiders): link\n5 Pearls on Inpatient Heart Failure (CORE IM): link\n\nTweetorial\nWhy can furosemide improve dyspnea/pulmonary edema from acute congestive heart failure within minutes of administration?: 🧵 thread"
+  },
+  {
+    "objectID": "heart-failure.html#lifestyle-modifications",
+    "href": "heart-failure.html#lifestyle-modifications",
+    "title": "5  Heart Failure",
+    "section": "5.6 Lifestyle Modifications",
+    "text": "5.6 Lifestyle Modifications\n\nLess than 2L fluid or 2g salt per day\nCardiac rehab\nExercise: 150 minutes of moderate or 75 minutes of vigorous physical activity\nSmoking cessation\nDecreased EtOH intake\nSleep apnea Tx"
+  },
+  {
+    "objectID": "heart-failure.html#diuretic-resistance",
+    "href": "heart-failure.html#diuretic-resistance",
+    "title": "5  Heart Failure",
+    "section": "5.7 “Diuretic Resistance”",
+    "text": "5.7 “Diuretic Resistance”\n\nEnsure adherence to fluid restriction + low-salt diet\nEnsure pt is not taking NSAIDs\nMaximize loop diuretic dose (Bumex 12.5 mg TID)\nMaximize thiazide diuretic (Metolazone 10 mg TID)\nMaximize other segment blockade (spiro 100 mg TID, acetazolamide 1000mg BID)\n\n\n\n\n\nAhmad, Tariq, and Nihar R. Desai. 2020. “Quadruple Therapy Is the New Standard of Care for HFrEF∗.” JACC: Heart Failure 8 (10): 819–21. https://doi.org/10.1016/j.jchf.2020.06.004.\n\n\nBaman, Jayson R., and Faraz S. Ahmad. 2020. “Heart Failure.” JAMA 324 (10): 1015. https://doi.org/10.1001/jama.2020.13310.\n\n\nBassi, Nikhil S., Boback Ziaeian, Clyde W. Yancy, and Gregg C. Fonarow. 2020. “Association of Optimal Implementation of Sodium-Glucose Cotransporter 2 Inhibitor Therapy with Outcome for Patients with Heart Failure.” JAMA Cardiology 5 (8): 948–51. https://doi.org/10.1001/jamacardio.2020.0898.\n\n\nDiNicolantonio, James J. 2012. “Should Torsemide Be the Loop Diuretic of Choice in Systolic Heart Failure?” Future Cardiology 8 (5): 707–28. https://doi.org/10.2217/fca.12.54.\n\n\nMcMurray, John J. V., Scott D. Solomon, Silvio E. Inzucchi, Lars Køber, Mikhail N. Kosiborod, Felipe A. Martinez, Piotr Ponikowski, et al. 2019. “Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction.” New England Journal of Medicine 381 (21): 1995–2008. https://doi.org/10.1056/NEJMoa1911303.\n\n\nMurphy, Sean P., Nasrien E. Ibrahim, and Jr Januzzi James L. 2020. “Heart Failure with Reduced Ejection Fraction: A Review.” JAMA 324 (5): 488–504. https://doi.org/10.1001/jama.2020.10262."
+  },
+  {
+    "objectID": "icd-hf.html",
+    "href": "icd-hf.html",
+    "title": "6  Indications for ICD (primary prevention)",
+    "section": "",
+    "text": "Stage C HFrEF w/ LVEF criteria (while on GDMT)\n\n≤ 35% if NYHA Class II-III\n≤ 30% if NYHA Class I\n\nAnticipated survival > 1 year\nGreater than 40 days post-MI (if HF d/t ischemic CM) or hx of CM on GDMT≥ 3 mos."
+  },
+  {
+    "objectID": "crt-hf.html",
+    "href": "crt-hf.html",
+    "title": "7  Indications for CRT",
+    "section": "",
+    "text": "NYHA Class 3 or 4 HF\nSinus rhtyhm\nLVEF ≤ 35%\nQRS > 120 msecs if LBBB or QRS > 150 msecs if non-LBBB\nOn optimal medical therapy"
+  },
+  {
+    "objectID": "afib.html",
+    "href": "afib.html",
+    "title": "8  Atrial Fibrillation",
+    "section": "",
+    "text": "Important\n\n\n\nIf HD unstable or intractable ischemia → immediate DC cardioversion"
+  },
+  {
+    "objectID": "afib.html#note",
+    "href": "afib.html#note",
+    "title": "8  Atrial Fibrillation",
+    "section": "8.1 Note",
+    "text": "8.1 Note\nAtrial Fibrillation, (*** paroxysmal/persistent/permanent)\n- Echo: ***\n- CHADS2-VASc score: ***\n- HAS-BLED score: ***\n- R/R control: ***\n    - Goal resting HR < 110 bpm (if Asx and preserved LVEF) [RACE II trial]\n    - Goal resting HR < 80 bpm for Sx AF mgmt despite \"lenient\" rate control [RACE II trial]\n    - If recent Dx (within 1 yr), consider rhythm control [EAST-AF trial]\n- Anticoagulation: ***\n    - Indicated if no significant bleeding risk and CHADS2-VASC >= 2 (men), >= 3 (women)\n    - If CKD 5/ESRD -> warfarin or apixaban (5 mg BID unless TBW < 60 kg or Age > 80 yo)\n- Consider checking TSH/fT4, Lytes (inc Ca, Mg)\n- Treatment of other co-moribidities\n    - OSA, HTN, Obesity, EtOH use disorder\n- Encourage weight loss (if obese) and abstinence from alcohol (Voskoboinik et al., NEJM 2020)"
+  },
+  {
+    "objectID": "afib.html#classifications",
+    "href": "afib.html#classifications",
+    "title": "8  Atrial Fibrillation",
+    "section": "8.2 Classifications",
+    "text": "8.2 Classifications\n\nParoxysmal - terminates spontaneously or with intervention in < 7 days; recurrence may occur\nPersistent - continuous AF lasting > 7 days; requires termination by cardioversion/ablation\nPermanent - AF > 7 days; sinus rhythm not possible, refractory to cardioversion"
+  },
+  {
+    "objectID": "afib.html#anticoagulation",
+    "href": "afib.html#anticoagulation",
+    "title": "8  Atrial Fibrillation",
+    "section": "8.3 Anticoagulation",
+    "text": "8.3 Anticoagulation\n\n\n\n\n\n\nWarning\n\n\n\nAvoid DOACs in patients with mechanical ❤️ valves (RE-ALIGN).\n\n\n\nDOACs for AFib\n\nDabigatran: RE-LY\nRivaroxaban:ROCKET-AF\nApixaban: ARISTOTLE\n\nPerioperative management: often we do not need to bridge AC peri-procedurally. (n.d.a; n.d.b)"
+  },
+  {
+    "objectID": "afib.html#rate-control-drugs",
+    "href": "afib.html#rate-control-drugs",
+    "title": "8  Atrial Fibrillation",
+    "section": "8.4 Rate Control Drugs",
+    "text": "8.4 Rate Control Drugs\n\n\nMetoprolol tartrate: up to 200 mg BID\nMetoprolol succinate: up to 400 mg daily\nCarvedilol 3.125-25 mg BID\nBisoprolol 2.5-10 mg daily\nDiltiazem (extended-release) 120-360 mg daily\nDigoxin: TODO\n\n\nEuropean Society of Cardiology and NICE guidelines recommend combination therapy if a single agent fails to control HR"
+  },
+  {
+    "objectID": "afib.html#rhythm-control",
+    "href": "afib.html#rhythm-control",
+    "title": "8  Atrial Fibrillation",
+    "section": "8.5 Rhythm control",
+    "text": "8.5 Rhythm control\n\nEAST-AFNET 4 trial (kirchhof2020?)\n\nEarly rhythm control within 1 yr of AF Dx with antiarrhythmics or AF ablation (+ cardioversion of persistent AF) was associated with reduced risk of CV mortality, stroke, HF hospitalization, or ACS hospitalization (compared to rate-control)\nGreat CardioNerds Journal Club on EAST-AFNET 4 trial"
+  },
+  {
+    "objectID": "afib.html#rvr-management",
+    "href": "afib.html#rvr-management",
+    "title": "8  Atrial Fibrillation",
+    "section": "8.6 RVR management",
+    "text": "8.6 RVR management\n\nIV metoprolol 2.5-5 mg over 2 minutes every 5 mins (up to 3 doses)\nDilt gtt (if EF preserved)\nAmiodarone 300 mg over 1 hr, then maintenance over 24 hrs\n\nFormula to convert diltiazem gtt to PO dilt: \\(\\text{PO} = [(\\text{IV (mg/hr)} \\times 3) + 3] \\times 10\\). For example, if rate controlled on dilt gtt at 5 mg/hr → PO = 18 x 10 = 180 mg/day."
+  },
+  {
+    "objectID": "afib.html#risk-factors",
+    "href": "afib.html#risk-factors",
+    "title": "8  Atrial Fibrillation",
+    "section": "8.7 Risk factors",
+    "text": "8.7 Risk factors\n\nModifiable risk factors\n\nOSA\nHTN\nEtOH use disorder"
+  },
+  {
+    "objectID": "afib.html#cardioversion-rules",
+    "href": "afib.html#cardioversion-rules",
+    "title": "8  Atrial Fibrillation",
+    "section": "8.8 Cardioversion Rules",
+    "text": "8.8 Cardioversion Rules\n\nIf AFib d/t thyrotoxicosis, cardioversion is often unsuccessful before restoration of a euthyroid state\nTEE + therapeutic anticoagulation → cardioversion → at least 4 weeks of therapeutic anticoagulation (indefinitely if increased stroke risk)\nTherapeutic anticoagulation x3 wks → cardioversion → at least 4 wks of therapeutic anticoagulation\nIf duration of AFib < 48 hrs\n\nIf HD unstable → just cardiovert, i.e. don’t waste time w/ anticoagulation\nIf HD stable → start on VTE-dose ppx before cardioversion\n\n\n\n\n\n\nn.d.a.\n\n\nn.d.b."
+  },
+  {
+    "objectID": "cardiogenic-shock.html",
+    "href": "cardiogenic-shock.html",
+    "title": "9  Cardiogenic Shock",
+    "section": "",
+    "text": "cool extremities\nnarrow pulse pressure (See Chapter 1)\nlabored breathing\nCheyne-Stokes respiration\nabdominal bloating/nausea\nEnd-organ dysfunction: oliguria, AMS, etc."
+  },
+  {
+    "objectID": "ra-waveform.html",
+    "href": "ra-waveform.html",
+    "title": "10  Right Atrial/CVP Waveform",
+    "section": "",
+    "text": "3 “waves” of JVP\n\na wave\n\nrise in RAP during atrial contraction\n\nc wave\n\nbowing of TV into RA during systole\n\nv waves\n\nRA filling while the TV is closed\n\n\n2 “descents”\n\nx descent\ny descent"
+  },
+  {
+    "objectID": "antiHTN.html",
+    "href": "antiHTN.html",
+    "title": "11  Anti-Hypertensive Medications",
+    "section": "",
+    "text": "Amlodipine takes about 30 hours to take effect\nCaptopril works for about 8 hours\nFurosemide can probably be given to patients with sulfa allergies, but there is risk for cross-reactivity (~10%)\nThere is no standard way to taper clonidine and no consensus has been reached on length of taper\nEye drops can be absorbed systemically and are often used without proper instructions\nSystemic absorption occurs when fluid drains into the vascular nasal mucosa via the lacrimal duct (a process promoted by blinking). Mitigate this by telling patients to close their eyes for 2-3 minutes after administration\nBeta-blockade prevents nitroprusside-induced reflex tachycardia, thereby decreasing shear stress on the aorta\nCKD is not a contraindication to use of nitroprusside (cyanide toxicity does not occur until at least 24 to 48 hours after initiation of the medication)"
+  },
+  {
+    "objectID": "entresto.html",
+    "href": "entresto.html",
+    "title": "12  Sacubitril/Valsartan",
+    "section": "",
+    "text": "PARADIGM-HF trial: ARNI 20% RR reduction vs ACEi trial was stopped early due to effect.\n\nThere are some valid concerns in how the trial was conducted. These concerns may influence why uptake of this med has been slow. (n.d.a)\nValsartan (of Entresto) was max dose, but Enalapril was not.\nThere was a longer run-in for Entresto compared to Enalapril, which may bias towards Entresto.\n\nPARAGON-HF trial: Entresto vs. valsartan in HF with LVEF ≥ 45% → “narrowly missed statistical significance for its primary end point” of total HF hospitalizations and CV death. (n.d.b)\n\nPrimary endpoint was reduced by 13% in favor of sacubitril/valsartan (hazard ratio, 0.87; 95% confidence interval, 0.75-1.01; p = .059).\nSee “Making the Case for an Expanded Indication for Sacubitril/Valsartan in Heart Failure” (n.d.c)"
+  },
+  {
+    "objectID": "entresto.html#initiation-of-entresto",
+    "href": "entresto.html#initiation-of-entresto",
+    "title": "12  Sacubitril/Valsartan",
+    "section": "12.1 Initiation of Entresto",
+    "text": "12.1 Initiation of Entresto\n\n\n\n\n\n\nWarning\n\n\n\n“Because sacubitril/valsartan therapy affects several biomarkers and specifically inhibits the breakdown of brain natriuretic peptide (BNP), BNP will be elevated in patients taking this drug. Therefore, BNP will not be a reliable marker of heart failure exacerbations in these patients. NT-pro-BNP is not a substrate for neprilysin, and therefore not affected by sacubitril. As such, NT-pro-BNP should be utilized in patients on sacubitril/valsartan when a heart-failure exacerbation is suspected.” Source\n\n\n\nPatients must be able to tolerate an ACEI or an ARB prior to being started on sacubitril/valsartan.\nWashout period: stop ACEi 24-36 hrs prior to initiation\n\nThe washout period is not needed when switching from an ARB to sacubitril/valsartan.\n\nLower/stop other diuretics upon initiation (because of sacubitril’s diuretic effect)\nStart at lowest dose and titrate up every 2-4 wks\nConsider initiation during hospitalization for ADHF \\[PIONEER-HF trial\\]\nContinue outpatient ARNI/ARB/ACEi/aldosterone antagonist and beta blocker during diuresis if blood pressure allows. (n.d.d)"
+  },
+  {
+    "objectID": "entresto.html#recommended-dosing",
+    "href": "entresto.html#recommended-dosing",
+    "title": "12  Sacubitril/Valsartan",
+    "section": "12.2 Recommended Dosing",
+    "text": "12.2 Recommended Dosing\n\nSource\nPatients on low-dose ACEI or ARB or not previously on ACEI or ARB start with sacubitril 24 mg/valsartan 26 mg BID. Double the dose every 2 to 4 weeks as tolerated, up to Sacubitril 97 mg/valsartan 103 mg BID.\nPatients on moderate to high dose of ACEI or ARB start with sacubitril 49 mg/valsartan 51 mg twice per day. Double the dose every 2 to 4 weeks as tolerated, up to sacubitril 97 mg/valsartan 103 mg orally twice per day.\nPatients with eGFR less than 30 or moderate hepatic impairment (Child-Pugh class B) should start with sacubitril 24 mg/valsartan 26 mg twice per day.\nSacubitril/valsartan is not recommended in severe hepatic impairment (Child-Pugh class C).\n\n\n\n\n\nn.d.b.\n\n\nn.d.c.\n\n\nn.d.d.\n\n\nn.d.a."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "13  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "n.d.d.\n\n\nn.d.e.\n\n\nn.d.f.\n\n\nn.d.a.\n\n\nn.d.b.\n\n\nn.d.c.\n\n\nAhmad, Tariq, and Nihar R. Desai. 2020. “Quadruple Therapy Is the\nNew Standard of Care for HFrEF∗.” JACC: Heart Failure 8\n(10): 819–21. https://doi.org/10.1016/j.jchf.2020.06.004.\n\n\nAnderson, Timothy S., Bocheng Jing, Andrew Auerbach, Charlie M. Wray,\nSei Lee, W. John Boscardin, Kathy Fung, Sarah Ngo, Molly Silvestrini,\nand Michael A. Steinman. 2019. “Clinical Outcomes After\nIntensifying Antihypertensive Medication Regimens Among Older Adults at\nHospital Discharge.” JAMA Internal Medicine 179 (11):\n1528–36. https://doi.org/10.1001/jamainternmed.2019.3007.\n\n\nBaman, Jayson R., and Faraz S. Ahmad. 2020. “Heart\nFailure.” JAMA 324 (10): 1015. https://doi.org/10.1001/jama.2020.13310.\n\n\nBassi, Nikhil S., Boback Ziaeian, Clyde W. Yancy, and Gregg C. Fonarow.\n2020. “Association of Optimal Implementation of Sodium-Glucose\nCotransporter 2 Inhibitor Therapy with Outcome for Patients with Heart\nFailure.” JAMA Cardiology 5 (8): 948–51. https://doi.org/10.1001/jamacardio.2020.0898.\n\n\nCappelleri, Claudia, Alin Janoschka, Reto Berli, Sibylle Kohler,\nRuediger C. Braun-Dullaeus, Ludwig T. Heuss, and Mathias Wolfrum. 2017.\n“Twenty-Four-Hour Ambulatory Blood Pressure Monitoring in Very\nElderly Patients: Comparison of in-Hospital Versus Home Follow-up\nResults.” Medicine 96 (34): e7692. https://doi.org/10.1097/MD.0000000000007692.\n\n\nDiNicolantonio, James J. 2012. “Should Torsemide Be the Loop\nDiuretic of Choice in Systolic Heart Failure?” Future\nCardiology 8 (5): 707–28. https://doi.org/10.2217/fca.12.54.\n\n\nMcMurray, John J. V., Scott D. Solomon, Silvio E. Inzucchi, Lars Køber,\nMikhail N. Kosiborod, Felipe A. Martinez, Piotr Ponikowski, et al. 2019.\n“Dapagliflozin in Patients with Heart Failure and Reduced Ejection\nFraction.” New England Journal of Medicine 381 (21):\n1995–2008. https://doi.org/10.1056/NEJMoa1911303.\n\n\nMurphy, Sean P., Nasrien E. Ibrahim, and Jr Januzzi James L. 2020.\n“Heart Failure with Reduced Ejection Fraction: A Review.”\nJAMA 324 (5): 488–504. https://doi.org/10.1001/jama.2020.10262.\n\n\nSaccò, Marcella, Michele Meschi, Giuseppe Regolisti, Simona Detrenis,\nLaura Bianchi, Marcello Bertorelli, Sarah Pioli, et al. 2013. “The\nRelationship Between Blood Pressure and Pain.” The Journal of\nClinical Hypertension 15 (8): 600–605. https://doi.org/10.1111/jch.12145.\n\n\nSheppard, James P., Jenni Burt, Mark Lown, Eleanor Temple, Rebecca Lowe,\nRosalyn Fraser, Julie Allen, et al. 2020. “Effect of\nAntihypertensive Medication Reduction Vs Usual Care on Short-Term Blood\nPressure Control in Patients with Hypertension Aged 80 Years and Older:\nThe OPTIMISE Randomized Clinical Trial.” JAMA 323 (20):\n2039–51. https://doi.org/10.1001/jama.2020.4871."
+  }
+]

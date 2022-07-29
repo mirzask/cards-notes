@@ -1,0 +1,67 @@
+# Coronary Artery Disease (CAD)
+
+```text
+CAD
+    - BMP, CBC
+    - A1c
+    - Lipids
+    - TSH w/ reflex
+- Treatment
+    - ASA 162/325 (if indicated)
+    - BB
+    - Other anti-anginal: CCB (if unable to tolerate BB), nitrates (long-acting if refractory to BB), ranolazine (adjunct to BB)
+    - Anti-platelet: ASA +/- clopidogrel
+    - Statin
+    - Optimize BP control, e.g. ACEi/ARB
+    - Optimize glycemic control in pts w/ DM
+- Lifestyle modifications
+    - Smoking cessation
+    - Exercise
+    - Weight loss
+- Diet: low fat, low cholesterol
+```
+
+-   Medications:
+    -   Cholesterol control: statin, ezetimibe, etc.
+    -   ACEi/ARB
+    -   BB
+    -   Anti-platelet
+-   The most important prognostic factor in pts w/ CAD is the *degree of LV dysfunction*
+
+## Angina
+
+-   Anti-anginal agents
+    -   β-blockers
+    -   nitrates
+    -   CCBs
+    -   ranolazine - if persistent angina despite maximal standard therapy
+    -   colchicine
+-   Stable angina in women: women will present older, describe "burning" and "tenderness" more frequently than men.
+-   Exacerbating factors
+    -   exertion
+    -   cold weather
+    -   emotional: anger, stress
+    -   large meals
+-   Associated symptoms
+
+    -   dyspnea
+
+    -   nausea or indigestion
+
+    -   pain elsewhere(eg, jaw, neck, teeth, back, abdomen)
+
+    -   palpitations
+
+    -   weakness and fatigue
+
+    -   syncope
+
+## Unstable angina
+
+-   "Unstable" angina is characterized by one or more of the following:
+
+    -   pain at rest
+
+    -   new onset
+
+    -   ↑ frequency

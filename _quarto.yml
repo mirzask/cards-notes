@@ -1,0 +1,52 @@
+project:
+  type: book
+
+book:
+  title: "cards-notes"
+  author: "Mirza S. Khan"
+  date: "7/28/2022"
+  chapters:
+    - index.qmd
+    - part: "Numbers & Metrics"
+      chapters:
+        - pulse-pressure.qmd
+    - part: "Cardiology Fundamentals"
+      chapters:
+        - hypertension.qmd
+        - cad.qmd
+    - part: "Chest Pain & ACS"
+      chapters:
+        - chest-pain.qmd
+    - part: "Heart Failure"
+      chapters:
+        - heart-failure.qmd
+        - icd-hf.qmd
+        - crt-hf.qmd
+    - part: "Rhythm"
+      chapters: 
+        - afib.qmd
+    - part: "CICU"
+      chapters:
+        - cardiogenic-shock.qmd
+    - part: "ECG"
+    - part: "Waveforms"
+      chapters:
+        - ra-waveform.qmd
+    - part: "Pharmacology"
+      chapters:
+        - antiHTN.qmd
+        - entresto.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,155 @@
+# Chest Pain
+
+```text
+Chest pain, *** typical/atypical/non-cardiac
+- HEART score: ***, TIMI score: ***
+- EKG
+- Labs
+    - Trop/hs-Trop - trend q3-4h/1-2h
+    - BMP, CBC
+    - A1c
+    - Lipids
+    - TSH w/ reflex
+- Stress test?
+- ACS protocol?
+- Echo?
+```
+
+:::{.callout-note}
+The base rate for myocardial infarction in pts presenting with chest pain is 15%, i.e. about 15% of pts who arrive at the ED complaining of CP are having an MI. \~33% of those patients who wind up getting admitted with suspicion of an MI are actually having an MI.
+:::
+
+## Serious 6 causes of Chest Pain
+
+-   **Serious 6** life-threatening causes of Chest Pain (PET MAC)
+
+    -   **P**E
+
+    -   **E**sophageal rupture
+
+    -   **T**ension PTX
+
+    -   **M**I
+
+    -   **A**ortic dissection
+
+    -   **C**ardiac tamponade
+    - Other emergenct causes: Takotsubo cardiomyopathy, esophageal impaction
+
+\
+![CPSolvers Chest Pain schema](https://i0.wp.com/clinicalproblemsolving.com/wp-content/uploads/2020/07/7.3_chestpain_.png?resize=1536%252C1087&ssl=1)
+
+## History Elements
+
+-   OLD CARTS
+
+<!-- -->
+
+- Hx:
+  - Description: pressure, burning, aching, squeezing, piercing
+  - Duration of Sx: acute vs. chronic
+  - Denied palpitations. radiation of pain, abdominal pain, nausea, vomiting, diaphoresis, or change in appetite.
+  - Pain is not made worse with deep inspiration or sudden movements. No other palliative or provocative features.
+  - Denied fevers, chills, cough, no increased sputum production.
+  - Denied dysphagia, globus sensation.
+-   Hx that *decreases* the likelihood of MI:
+    -   pleuritic pain
+    -   sharp or stabbing pain
+    -   positional pain
+    
+## Cardiac Risk Factors
+
+-   HTN, DM, HLD
+-   family history
+-   peripheral vascular disease
+-   CVA
+-   CKD/ESRD
+-   Inflammation/Rheum or elevated inflammatory markers
+-   Tobacco use
+-   Recreational drug use: cocaine
+-   Lifestyle
+    -   poor diet
+    -   sedentary
+    -   obesity
+
+
+## Clinical Decision Rules
+
+- HEART score
+- TIMI score
+
+## Causes of Chest Pain
+
+### Cardiac Causes
+
+- ACS: UA, NSTEMI, STEMI
+- Pericarditis/Myocarditis
+- Stable angina
+
++-----------------------+-------------------------------------------+
+| Classification        | Symptoms                                  |
++=======================+===========================================+
+| Typical angina        | 1.  Substernal chest discomfort           |
+|                       | 2.  Provoked by exertion/emotional stress |
+|                       | 3.  Relieved by rest or nitroglycerin     |
++-----------------------+-------------------------------------------+
+| Atypical angina       | meets 2 of the 3                          |
++-----------------------+-------------------------------------------+
+| Noncardiac chest pain | meets 1 or none of the 3                  |
++-----------------------+-------------------------------------------+
+
+### Non-Cardiac of Chest Pain
+
+:::{.callout-warning}
+MSK disorders and GERD are common causes of CP that can *mimic* angina (worse w/ activity, sensation of pressure).
+:::
+
+- MSK: costochondritis, rib fx, precordial catch syndrome, Tietze syndrome, pectoral mm. strain, C4-T6 spondylosis, myositis
+-   Breast: fibroadenomas, mastitis, gynecomastia
+-   Derm: herpes zoster
+-   Esophageal/GI: esophageal rupture, esophageal impaction, esophagitis, esophageal ulcer, esophageal spasm, GERD, PUD, malignancy, GB disease, liver abscess, pancreatitis, liver abscess
+-   Pulm: PNA, PE, pleural effusion, lung mass, mediastinal abnormalities, pericardial disease, diaphragmatic hernia
+-   Mediastinum: fat necrosis, thymoma, lymphoma
+-   Referred pain from abdominal process
+-   Psych: panic, anxiety
+-   Clues from history regarding *esophageal* causes of CP:
+    -   odynophagia -\> esophagitis, esophageal ulcer
+    -   dysphagia -\> GERD, esophageal cancer (RFs include smoking, EtOH, chronic reflux)
+    -   acute pain after retching -\> esophageal rupture (Boerhaave syndrome)
+    -   intermittent CP and dysphagia -\> esophageal spasm or motility disorders
+
+Study of 100 patients showing prevalence of history findings in cardiac versus esophageal etiology of CP:
+
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| **Symptom**                               | **Among patients with cardiac cause (%)** | **Among patients with esophageal cause (%)** |
++===========================================+===========================================+==============================================+
+| Lateral radiation                         | 69                                        | 11                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| More than 1 spontaneous episode per month | 13                                        | 50                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Pain persists as ache for several hours   | 25                                        | 78                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Nighttime wakening caused by pain         | 25                                        | 61                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Provoked by swallowing                    | 6                                         | 39                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Provoked by recumbency or stooping        | 19                                        | 61                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Variable exercise tolerance               | 10                                        | 39                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Pain starts after exercise completed      | 4                                         | 33                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Pain relieved by antacid                  | 10                                        | 44                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Presence of heartburn                     | 17                                        | 78                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Presence of regurgitation                 | 17                                        | 67                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+| Presence of GI symptoms                   | 46                                        | 83                                           |
++-------------------------------------------+-------------------------------------------+----------------------------------------------+
+
+:::{.callout-tip}
+## Nitroglycerin response cannot discern cardiac vs other causes of CP
+
+"history cannot differentiate esophageal chest pain from pain due to cardiac ischemia. That said, pain that occurs with swallowing, is persistent, wakes the patient from sleep, is positional, and is associated with heartburn or regurgitation is more likely to be of esophageal origin... The effect of nitroglycerin in relieving chest pain has consistently been found to be useless in differentiating anginal chest pain from esophageal or other causes of chest pain." (Source: Symptom to Diagnosis)
+:::

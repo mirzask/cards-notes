@@ -1,0 +1,16 @@
+# Right Atrial/CVP Waveform
+
+## Jugular Venous Pulsation
+
+-   3 "waves" of JVP
+    -   a wave
+        -   rise in RAP during atrial contraction
+    -   c wave
+        -   bowing of TV into RA during systole
+    -   v waves
+        -   RA filling while the TV is closed
+-   2 "descents"
+    -   x descent
+    -   y descent
+
+![](images/cards-JVP-waveform.jpg)

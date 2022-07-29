@@ -1,0 +1,58 @@
+# Hypertension {#sec-hypertension}
+
+## Screening for HTN
+
+The USPSTF recommends HTN screening for those 18+ yo with office BP measurement and confirmation with out-of-clinic measurements (Grade A)
+
+## Flavors of HTN
+
+-   Elevated BP
+
+-   Stage I HTN
+
+-   Stage II HTN
+
+-   Resistant HTN
+
+-   Refractory HTN
+
+-   HTN urgency
+
+-   HTN emergency
+
+## Inpatient HTN
+
+### Inpatient BP Management
+
+Satya Patel from UCLA has a phenomenal resource he's put together on this. I first caught wind of it from [his tweet](https://twitter.com/SatyaPatelMD/status/1409973787592773632). This is part of the much larger UCLA Inpatient Pocket Card Set available at <http://bit.ly/pocketcardset>.
+
+![Source: UCLA IM Pocket Card Set](images/paste-62BC7DCC.png)
+
+![Go-to list of night float medications by class. Source: Satya Patel's Inpatient Management of Hypertension Summary.](images/paste-12319C4D.png)
+
+### Hypertensive Crises
+
+::: callout-caution
+## **Headache does not count as evidence of end-organ injury when evaluating a patient for hypertensive emergency**
+:::
+
+-   Hypertensive Urgency
+
+    -   TODO: read the "Things We Do For No Reason" on Acute Treatment of Hypertensive Urgency
+
+-   Hypertensive Emergency
+
+    -   In patients with acute ischemic stroke, BP \>220/120, and did not receive tPA, reasonable to lower BP by 15% in the first 24 hours
+    -   In patients with acute ischemic stroke, BP \<220/120, and did not receive tPA, do not need to initiate hypertension treatment within the first 48-72 hours
+    -   Initiate or re-start antihypertensives \~72 hours after acute ischemic stroke to maintain a BP \<140/90
+
+![Source: Satya Patel's Inpatient Management of Hypertension Summary](images/paste-8C136D47.png)
+
+### Things to know
+
+-   Inpatient BP tends to be higher then Outpatient BPs by \~ 7/3 mmHg [@cappelleri2017]
+-   Intensifying antihypertensive meds at hospital discharge is associated with an ↑ risk of readmission and serious adverse events within 30 days. Moreover, outpatient BP was comparable to pre-intensification. [@anderson2019] (Swapnil 🧵: [link](https://twitter.com/hswapnil/status/1305873824894849025))
+-   Polypharmacy among elderly patients often includes anti-HTN meds. OPTIMISE study: non-inferioty study; RCT of 569 patients \> 80 yo comparing anti-HTN medication reduction (stop 1 med) to usual care → anti-HTN med reduction was non-inferior to usual care. [@sheppard2020]
+-   Does pain cause ↑ BP? ([thread](https://twitter.com/AlexChaitoff/status/1317611640909631494))
+    -   Yes, can cause transient ↑ SBP up to 30 mmHg
+    -   Mechanism: pain affects the HPA axis and increases sympathetic tone [@saccò2013]

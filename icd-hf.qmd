@@ -1,0 +1,7 @@
+# Indications for ICD (primary prevention)
+
+1.  Stage C HFrEF w/ LVEF criteria (while on GDMT)
+    1.  ≤ 35% if NYHA Class II-III
+    2.  ≤ 30% if NYHA Class I
+2.  Anticipated survival \> 1 year
+3.  Greater than 40 days *post-MI* (if HF d/t ischemic CM) *or* hx of CM on GDMT≥ 3 mos.

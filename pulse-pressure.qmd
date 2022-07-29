@@ -1,0 +1,28 @@
+# Pulse Pressure {#sec-pulsepressure}
+
+Source: Homan TD, Bordes S, Cichowski E. Physiology, Pulse Pressure. In: StatPearls. StatPearls Publishing; 2020. Accessed August 17, 2020. <http://www.ncbi.nlm.nih.gov/books/NBK482408/>
+
+$$
+\text{Pulse Pressure} = \text{SBP} - \text{DBP}
+$$
+
+-   the difference between SBP and DBP
+
+-   *normal* PP is $\approx 40 \ \text{mm Hg}$
+
+-   *narrow* PP: $\text{PP} < 0.25 \times \text{SBP}$
+
+    -   e.g. if SBP is 100 mmHg, then a PP \< 25 would be considered "narrow"
+    -   may indicate a "low-output" state in the setting of HF; [associated with ↑ mortality in HFrEF](https://academic.oup.com/eurheartj/article/36/18/1106/2293212)
+
+-   *wide* PP: $\text{PP} > 100 \ \text{mm Hg}$
+
+-   Deviations in PP that are "normal"
+
+    -   Endurance runners may have an *increased* PP
+
+    -   Elderly pts may have a *widened* PP due to ↓ compliance of the large elastic aa. ("hardening of the arteries")
+
+        -   LV contracts against stiffer, less compliant aa. → both SBP and DBP ↑ and *widening* of PP
+
+- See Cardiogenic Shock (@sec-cardiogenicshock)

@@ -1,0 +1,8 @@
+# Cardiogenic Shock {#sec-cardiogenicshock}
+
+- cool extremities
+- *narrow* pulse pressure (See @sec-pulsepressure)
+- labored breathing
+- Cheyne-Stokes respiration
+- abdominal bloating/nausea
+- End-organ dysfunction: oliguria, AMS, etc.
