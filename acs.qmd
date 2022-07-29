@@ -1,0 +1,267 @@
+# Acute Coronary Syndrome
+
+## Note
+
+### UA/NSTEMI
+
+``` text
+*** UA/NSTEMI
+    - BMP, CBC
+    - A1c
+    - Lipids
+    - TSH w/ reflex
+- Treatment
+    - ASA 162/325 (if indicated)
+    - Heparin gtt (per ACS protocol)
+    - BB
+    - Nitrates (SLN, paste?)
+    - Other anti-anginal: CCB (if unable to tolerate BB), nitrates (long-acting if refractory to BB), ranolazine (adjunct to BB)
+    - Anti-platelet: ASA +/- clopidogrel
+    - Statin
+    - Optimize BP control, e.g. ACEi/ARB
+    - Optimize glycemic control in pts w/ DM
+    - Nicotine replacement therapy (if indicated)
+- Lifestyle modifications
+    - Smoking cessation
+    - Exercise
+    - Weight loss
+- Supplemental O2 PRN
+- Diet: low fat, low cholesterol
+```
+
+### STEMI
+
+TODO
+
+## Definitions
+
+-   UA is angina that is either:
+
+    -   new (\< 2 months)
+
+    -   increased in severity or frequency
+
+    -   occurs at rest
+
+-   The difference between unstable angina (UA) and NSTEMI is the absence or presence of cardiac enzymes, respectively.
+
+## MI Subtypes based on etiology
+
+-   **Type 1**: Spontaneous MI due to a primary coronary event
+-   **Type 2**: MI secondary to ischemia due to either increased oxygen demand or decreased supply, eg, coronary artery spasm, anemia, or arrhythmias
+-   **Type 3**: Sudden unexpected cardiac death, including cardiac arrest, often with symptoms suggestive of myocardial ischemia
+-   **Type 4**: MI associated with PCI or stent thrombosis
+-   **Type 5**: MI associated with CABG
+
+## Clinical Presentation
+
+> 💡Response to nitroglycerin should not be used as a diagnostic test in the evaluation of chest pain.
+
+Assuming a base rate of 15%, i.e. pre-test probability of 15%.
+
+| **Feature or Finding**      | **LR+** | **Post-test Probability** |
+|-----------------------------|---------|---------------------------|
+| Radiation to both arms      | 9.7     | 63%                       |
+| Radiation to right arm      | 7.3     | 56%                       |
+| Third heart sound           | 3.2     | 36%                       |
+| Hypotension                 | 3.1     | 35%                       |
+| Radiation to left arm       | 2.2     | 28%                       |
+| Radiation to right shoulder | 2.2     | 28%                       |
+| Crackles                    | 2.1     | 27%                       |
+| Diaphoresis                 | 2.0     | 26%                       |
+| Nausea and vomiting         | 1.9     | 25%                       |
+
+### Factors that increase likelihood of ACS (per ACC/AHA)
+
+-   Chest or left arm pain that reproduces prior angina
+-   History of CHD
+-   Transient mitral regurgitation murmur
+-   hypOtension
+-   diaphoresis
+-   pulmonary edema
+-   crackles
+
+### Mimics
+
+-   Prinzmetal (vasospastic) angina; can be diagnosed in cath lab with ergonovine infusion
+    -   Tx: CCBs, nitrates
+    -   Clue: ischemia-Sx that occur at about the same time each day; EKG w/ transient ST elevation during pain episode.
+-   See [non-cardiac causes of chest pain](chest-pain.qmd#causes-of-chest-pain)
+
+### Likelihood of MI based on ECG findings
+
+-   New ST elevation \> 1 mm, LR+ = 5.7--53
+-   New Q wave, LR+ = 5.3--24.8
+-   Any ST elevation, LR+ = 11.2
+-   New Q or ST elevation, LR+ = 11
+-   Any ECG abnormality, LR- = 0.04
+
+### Likelihood of MI based on Troponin
+
+::: callout-warning
+Patients with kidney disease often have elevated troponin levels raising the risk of false-positive tests for MI.
+:::
+
+-   sensitivity, 95%; specificity, 98%; LR+, 48; LR--, 0.05
+
+## Inferior MI
+
+
+-   **Inferior MI** may present with acute severe epigastric pain, anorexia, n/v and diaphoresis
+
+    -   Why? ↑ vagal tone and irritation of the diaphragm by adjacent infarcted inferior wall
+
+-   Every pt presenting with a suspected **acute inferior MI** should get a right-sided EKG
+
+    -   R-sided EKG will show ≥ 1 mm ST elevation in leads RV4-RV6
+
+-   If a pt presenting with **inferior MI** **+ hypOtension** → get a R-sided EKG
+
+-   Right ventricular infarction is almost always due to occlusion of the right coronary artery (RCA)
+
+-   Clinical triad of right ventricular infarction
+
+    -   hypOtension
+
+    -   clear lung fields
+
+    -   ↑ JVP
+
+-   In acute inferior MI and PA catheter shows ↓ PCWP, ↑ RA pressure: give fluids until BP normalizes
+
+    -   What's going on? RV infarct → RV failure, so the RV is unable to fill the L side of the heart
+
+-   Management of RV infarction differs from mgmt of LV infarction in the following ways:
+
+    -   avoid nitrates and other agents that ↓ preload in RVI
+
+    -   *give* fluids if RVI + hypOtensive
+
+-   Cardiac complications more common with inferior MIs (compared to anterior MIs):
+
+    -   bradycardia
+
+    -   AV block
+
+    -   Why these complications with inferior MIs? Due to ↑ vagal tone and AV nodal ischemia associated w/ inferior infarcts
+
+> Although AV block is more common with inferior MIs. If it does occur with anterior MI, it is due to destruction of a large amount of myocardium in the interventricular septum. ∴ AV block in setting of an *anterior* MI is associated with higher mortality than AV block in setting of *inferior* MI (transiet, no ppm required). AV block due to *anterior* MI requires pacemaker placement.
+
+
+## ECG Criteria
+
+### STEMI ECG Criteria
+
+-   New ST elevation at the J point in 2 contiguous leads \> 1 mm (0.1 mV) in all leads except V2--V3
+-   New ST elevation V2--V3 of \>= 2 mm in men younger than 40 years or \>= 1.5 mm in women
+-   New, or presumed new, left bundle branch block
+
+::: callout-caution
+## Posterior MI may be a STEMI, but appear as ST-depression on a routine 12-lead EKG. Confirm STEMI by obtaining a R-sided EKG.
+:::
+
+![Appearance of leads V1-V2 suggestive of STEMI in Posterior MI. Notice how it appears as ST-depression on routine 12-lead EKG.](images/cards-posteriorMI-EKG.jpg)
+
+## Management of ACS
+
++-----------------------------+------------------------------------------------------------------------+
+| Management                  | Indications                                                            |
++=============================+========================================================================+
+| Cath lab ASAP               | **STEMI\                                                               |
+|                             | NSTEMI\                                                                |
+|                             | **unstable/cardiogenic shock\                                          |
+|                             | severe LV dysfunction\                                                 |
+|                             | recurrent/persistent angina at rest despite intensive medical therapy\ |
+|                             | new/worsening MR or VSD\                                               |
+|                             | sustained ventricular arrhythmia                                       |
++-----------------------------+------------------------------------------------------------------------+
+| Cath lab within 24 hrs      | **NSTEMI/UA**\                                                         |
+|                             | TIMI: intermediate (3-4) or high (5-7) risk                            |
++-----------------------------+------------------------------------------------------------------------+
+| Cath lab prior to discharge | **NSTEMI/UA**\                                                         |
+|                             | TIMI: low (1-2) risk *and*\                                            |
+|                             | (+) EKG changes *or*\                                                  |
+|                             | ↑ Troponin                                                             |
++-----------------------------+------------------------------------------------------------------------+
+| Medical management          | **NSTEMI/UA**\                                                         |
+|                             | Stable *and*\                                                          |
+|                             | TIMI: low (1-2) risk                                                   |
++-----------------------------+------------------------------------------------------------------------+
+
+: Management strategies for patients presenting with ACS/MI (Source: BrighamChiefs, Aug 19, 2020)
+
+-   First med to give to a pt presenting with chest pain and concern for ACS: **non-enteric coated ASA 162/325 mg bite and chew x1**
+-   Within the first 10 minutes of the encounter for a pt w/ suspected ACS, do the following:
+    -   Give ASA
+    -   Obtain EKG, troponin
+    -   Obtain H&P
+-   Labs
+    -   Troponin
+        -   first elevated **4 hrs** after an MI
+        -   peaks **44 hrs** after MI
+
+![TIMI scoring criteria for UA/NSTEMI](images/cards-TIMI-score-UANSTEMI.png){#fig-timinstemi}
+
+-   For pts presenting with UA/NSTEMI, calculate the TIMI score (Fig @fig-timinstemi) to determine if and when patient should go to the cath lab.
+    -   TIMI ≥ 3 → Cath lab w/in 24 hrs
+-   Patients with ACS who need to go to Cath lab **ASAP**
+    -   STEMI
+    -   NSTEMI
+        -   unstable or cardiogenic shock
+        -   severe LV dysfunction
+        -   recurrent/persistent angina at rest despite intensive medical therapy
+        -   new/worsening mitral regurgitation or VSD (See \@ref(mi-complications))
+        -   sustained ventricular arrhythmia
+
+> Historically, a "new" left bundle branch block (LBBB) in the setting of chest pain was to be treated like a STEMI. Recent studies demonstrate that most patients with chest pain and a "new" LBBB do not have a STEMI (Jain et al., 2011; Kontos et al., 2011). ([Source](https://www.medscape.com/viewarticle/753695_1))
+
+-   If a patient has taken a **PDE-5 inhibitor**, e.g. viagra, you should wait **24 hrs** before giving **nitroglycerin**
+
+    -   Exception: tadalafil (Cialias), where you should wait **48 hrs**
+
+### Conservative (medical) management of acute UA/NSTEMI
+
+-   anticoagulation: heparin, enoxaparin
+-   DAPT: ASA + clopidogrel *or* ticagrelor
+
+### Indications for temporary pacing at time of MI
+
+-   Sx bradyarrythmia refractory to meds
+
+-   asystole or sinus arrest
+
+-   complete (3^rd^ degree) AV block
+
+-   Mobitz type 2 (2^nd^ degree) AV block
+
+### Medications with mortality benefit in MI
+
+-   antiplatelet therapy
+
+-   high-intensity statin
+
+-   β-blockers (if LVEF \< 40% or prior MI)
+
+    -   all MI pts should be started on a BB after an MI for *at least* 3 yrs. Continue indefinitely if LVEF \< 40% or prior MI.
+
+-   ACEi
+
+    -   only indicated post-MI if LVEF \< 40%, DM, HTN or CKD
+
+-   Order an Echo after a STEMI to evaluate for cardiac function (e.g. EF) and mechanical complications
+
+-   The most important prognostic factor in pts w/ CAD is the *degree of LV dysfunction*
+
+### Indications for coronary artery bypass graft (CABG)
+
+-   Left main CAD w/ \> 50% stenosis
+
+-   3-vessel CAD with \> 70% stenosis in *each* vessel
+
+-   significant (\> 70% stenosis) in 2-vessels with 1 of these 2 vessels being the proximal LAD \[Left main equivalent\]
+
+-   CABG vessel patency at 10 yrs:
+
+    -   internal mammary artery (IMA) graft: 90% are patent at 10 yrs
+
+    -   saphenous vein: 50% are patent at 10 yrs

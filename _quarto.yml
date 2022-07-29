@@ -14,9 +14,15 @@ book:
       chapters:
         - hypertension.qmd
         - cad.qmd
+        - cholesterol.qmd
+        - stress-tests.qmd
+        - troponinemia.qmd
     - part: "Chest Pain & ACS"
       chapters:
         - chest-pain.qmd
+        - acs.qmd
+        - minoca.qmd
+        - prinzmetal.qmd
     - part: "Heart Failure"
       chapters:
         - heart-failure.qmd
@@ -25,9 +31,16 @@ book:
     - part: "Rhythm"
       chapters: 
         - afib.qmd
+        - supraventricular-tachy.qmd
+        - ventricular-tachy.qmd
     - part: "CICU"
       chapters:
         - cardiogenic-shock.qmd
+    - part: "Emergencies"
+      chapters: 
+        - acls.qmd
+        - mi-complications.qmd
+        - tamponade.qmd
     - part: "ECG"
     - part: "Waveforms"
       chapters:

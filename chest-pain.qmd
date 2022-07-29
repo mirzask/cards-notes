@@ -1,4 +1,6 @@
-# Chest Pain
+# Chest Pain {#sec-chestpain}
+
+##
 
 ```text
 Chest pain, *** typical/atypical/non-cardiac
@@ -11,6 +13,10 @@ Chest pain, *** typical/atypical/non-cardiac
     - Lipids
     - TSH w/ reflex
 - Stress test?
+  - Consider if clinically stable, no longer having active chest pain and/or non-rising troponins
+  - ETT/Echo: if pt can exercise/walk on treadmill, BMI < 40
+  - Nuc perfusion: prior MI, obesity, hx of AFib/arrhythmia
+  - Dobutamine stress: if hx of lung disease, no arrhythmia, unable to exercise
 - ACS protocol?
 - Echo?
 ```
@@ -76,7 +82,11 @@ The base rate for myocardial infarction in pts presenting with chest pain is 15%
 ## Clinical Decision Rules
 
 - HEART score
+  - History, ECG, Age, Risk Factors, and Troponin
 - TIMI score
+- GRACE score
+- Others:
+  - Patient in the ED with chest pain: Sanchis score, Vancouver rule, HEART score, HEARTS~3~ score, Hess prediction rule
 
 ## Causes of Chest Pain
 
@@ -85,6 +95,9 @@ The base rate for myocardial infarction in pts presenting with chest pain is 15%
 - ACS: UA, NSTEMI, STEMI
 - Pericarditis/Myocarditis
 - Stable angina
+- Aortic dissection
+- Expanding aortic aneurysm
+- Pulmonary embolism
 
 +-----------------------+-------------------------------------------+
 | Classification        | Symptoms                                  |

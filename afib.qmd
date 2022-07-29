@@ -1,4 +1,4 @@
-# Atrial Fibrillation
+# Atrial Fibrillation {#sec-afib}
 
 ::: callout-important
 If HD unstable or intractable ischemia → immediate DC cardioversion
