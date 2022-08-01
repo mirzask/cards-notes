@@ -1,0 +1,175 @@
+# Syncope
+
+## Note
+
+### H&P
+
+``` text
+*** Denied HA, diaphoresis, n/v, cold or warm sensation, CP, SOB, palpitations, deja vu, jamais vu, blurry vision or lightheadedness prior to the episode. No witnessed cyanosis while unconscious, tongue bite/laceration, incontinence, limb twitching or seizure-like activity. Following the episode, the pt was not confused and had normal/baseline mentation.
+```
+
+### A&P
+
+``` text
+Syncope
+- Calgary Score (VVS)
+    - ≥ -2 suggests vasovagal syncope
+- EGSYS score
+    - < 3 makes cardiac syncope *less* likely
+- History: prodromal Sx? dehydration? infectious Sx? deconditioning/malnutrition?
+- Medication review: *** anti-HTNs, diuretics, vasodilators, antipsychotics, anti-depressants, EtOH, opiates
+- Labs:
+    - beta-HCG (if +, consider ectopic pregnancy)
+    - Trop, BNP (if indicated)
+- EKG
+    - try to exclude BLOWHard conditions
+- TTE
+- Telemetry
+  - Outpatient: consider mobile cardiac outpatient telemetry (MCOT)
+- Orthostatics
+- Any concerning features to suggest adrenal insufficiency?
+- Consider autonomics consult if indicated
+- PT/OT
+- Consider home safety evaluation
+```
+
+``` text
+Orthostatic hypotension
+- Encouraged to rise from resting position gradually, avoid standing motionless (even if still, tense leg mm.)
+- Compression waist high stocking (30-40 mmHg)
+- Abdominal binder
+- Increase salt consumption 6-10 g/d
+- Encouraged water intake 2-3 L/d
+- If Sx persist despite the above interventions, consider fludrocortisone
+    - Alternative pharmacotherapy: midodrine
+```
+
+## 4 General Causes
+
+-   Reflex-mediated
+    -   Vasovagal (most common cause)
+    -   Situational, e.g. coughing, micturition, etc.
+    -   Carotid sinus hypersentivity
+-   Cardiac
+    -   arrhythmia, e.g. SSS, VT, AV block, etc.
+    -   obstruction, e.g. severe AS, HCM, PE, etc.
+    -   massive MI
+-   Orthostatic
+    -   intravascular volume depletion (e.g. dehydration, blood loss) vs. abnml autonomic reflexes
+-   Neuro
+    -   Central → brain steam lesions, Parkinson disease, Lewy body dementia, Parkinsonism, Shy-Drager syndrome
+    -   Peripheral → pure autonomic failure, diabetic neuropathy
+
+::: callout-important
+## Seizure-like activity with Syncope
+
+Pts w/ LOC d/t syncope can have brief (\< 15 seconds) of brief asymmetric or symmetric myoclonic or tonic-clonic movements (not a seizure!). Typically occurs within 10 seconds after LOC, but not before.
+:::
+
+![CPS Syncope Schema](images/syncope-cps.png){width="643"}
+
+## Mimics
+
+-   Seizures
+    -   History:
+        -   head turning during the event (seizure \> syncope; +LR for seizure 14)
+        -   unusual posturing during the event (seizure \> syncope; +LR 13)
+        -   urinary incontinence (+LR 6.7)
+        -   absence of presyncope (+LR 5.6)
+    -   Exam:
+        -   tongue laceration (+LR 16)
+        -   no recall of unusual behaviors before LOC (+LR 4)
+
+```{mermaid}
+%%| label: fig-syncopevsseizure
+%%| fig-width: 6
+%%| fig-align: center
+%%| fig-cap: |
+%%|   Time to regain of consciousness/awareness after an LOC episode can be useful to differentiate seizures (post-ictal confusion) and syncope.
+flowchart TD
+    A[LOC episode] --> B(Prolonged Confusion)
+    A --> C(Rapidly regain awareness)
+    B -->D[Seizure<br>post-ictal confusion]
+    C -->E[Syncope]
+```
+
+-   Stroke
+-   hypOglycemia
+-   Rare
+    -   subclavian steal syndrome
+    -   vertebrobasilar TIA
+    -   SAH
+
+
+
+## Reflex-mediated Syncope
+
+-   Common precipitants:
+    -   pain/emotion/fear
+    -   warm/hot environment
+    -   afferent visceral stimuli, e.g. distended stomach or bladder
+    -   pressure on carotid sinus baroreceptor, e.g. a tight collared shirt while turning the neck
+-   Prodromal Sx
+    -   Cause: efferent vagal component of the reflex leads to autonomic symptoms
+    -   **History**: HA, sweating, a sense of cold or warmth, n/v, abdominal discomfort, or urge to defecate
+-   Vasovagal syncope
+    -   usually initiated by prolonged sitting or standing → \~ 500-800 mL of blood remains in the distensible vv. below the ♥
+
+### Vasovagal Syncope Score (Calgary Score)
+
+-   Vasovagal syncope is suggested if score ≥ -2
+
+![Grading for Vasovagal Syncope Score (Calgary Score)](images/syncope-calgary-vvs.jpg)
+
+## Cardiac Syncope
+
+-   Etiology: a marked ↓ in CO due to cardiopulmonary disease, such as arrhythmia, structural heart disease, or PE → cerebral hypOperfusion
+-   History
+    -   may occur at rest, in the supine position, or during effort when the pt is unable to ↑ CO to meet the increased demand
+    -   may be preceded by CP, SOB, or palpitations
+    -   may have witnessed cyanosis while unconscious
+
+### EGSYS Score
+
+-   Score range: -2 to 12
+-   Higher score → ↑ likelihood of cardiac syncope
+-   EGSYS \< 3, suggests *low* likelihood of cardiac syncope
+
+![Grading for EGSYS Score](images/egsys.png)
+
+### Things to rule-out on ECG
+
+4 cardiac conditions to look for on ECG in all patients presenting with syncope (**BLOWH**ard) [Source](http://embasic.org/wp-content/uploads/2012/01/13-syncope-show-notes1.pdf):
+
+-   **B**rugada
+-   **LO**ng QT
+-   **W**PW
+-   **H**CM/LVH
+
+### Orthostatic hypOtension
+
+-   [Great overview](https://www.ncbi.nlm.nih.gov/books/NBK532938/) on orthostatic hypotension
+-   Performing orthostatics
+    -   baseline: check BP, HR after pt lying down for at least 5 minutes
+    -   after 1 minute of standing
+    -   after 3 minutes of standing
+-   Interpreting orthostatics
+    -   positive for orthostasis if ↓ SBP of of ≥ 20 mmHg or ↓ DBP of ≥ 10 mmHg
+        -   for HTN pts, a ↓ of SBP ≥ 30 mmHg may be a more appropriate criteria [^syncope-1]
+    -   HR response
+        -   if HR ↑ by \< 15 bpm after standing → suggests neurogenic orthostatic hypOtension
+        -   if HR ↑ by \> 20 bpm after standing → suggests volume depletion
+        -   if HR ↑ by \> 30 bpm after standing → suggests postural orthostatic tachycardia syndrome (POTS)
+            -   POTS usually presents with typical orthstatic Sx, but do *not* meet BP criteria for orthostasis, i.e. little/no ↓ in BP w/ postural ∆
+
+[^syncope-1]: Freeman R, Wieling W, Axelrod FB, et al. Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome. *Clin Auton Res*. 2011;21(2):69-72. <doi:10.1007/s10286-011-0119-5>
+
+## Clinical Pearls
+
+-   In a pt presenting with syncope and **elevated** $\beta$-hCG, think about ectopic pregnancy as possible underlying cause
+-   In a pt presenting with syncope and associated **severe HA**, think about SAH or intracranial hemorrhage
+-   In a pt presenting with syncope and **neuro deficits**, think about stroke/TIA or intracranial bleed
+-   In a young pt presenting with syncope **during exercise**, think about anomalous coronary artery
+    -   normally, folks will complain of syncope *after* exercise
+-   Orthostatic hypOtension causes the postural instability in pts w/ Parkinsonism
+-   **Shy-Drager syndrome**: Parkinsonism predominantly w/ orthostasis

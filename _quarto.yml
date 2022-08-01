@@ -2,11 +2,14 @@ project:
   type: book
 
 book:
-  title: "cards-notes"
+  title: "Cardiology Notes"
   author: "Mirza S. Khan"
   date: "7/28/2022"
   chapters:
     - index.qmd
+    - part: "Hospital & EMR Info"
+      chapters: 
+        - inhouse-shifts.qmd
     - part: "Numbers & Metrics"
       chapters:
         - pulse-pressure.qmd
@@ -17,11 +20,14 @@ book:
         - cholesterol.qmd
         - stress-tests.qmd
         - troponinemia.qmd
+        - syncope.qmd
+        - pad.qmd
     - part: "Chest Pain & ACS"
       chapters:
         - chest-pain.qmd
         - acs.qmd
         - minoca.qmd
+        - pericarditis.qmd
         - prinzmetal.qmd
     - part: "Heart Failure"
       chapters:
@@ -36,30 +42,54 @@ book:
     - part: "CICU"
       chapters:
         - cardiogenic-shock.qmd
+        - post-cardiacarrest.qmd
+        - constrictive-pericarditis.qmd
     - part: "Emergencies"
       chapters: 
         - acls.qmd
         - mi-complications.qmd
         - tamponade.qmd
+        - hypertensive-crises.qmd
     - part: "ECG"
+      chapters: 
+        - qt-prolong.qmd
     - part: "Waveforms"
       chapters:
         - ra-waveform.qmd
     - part: "Pharmacology"
       chapters:
+        - aspirin.qmd
+        - statins.qmd
         - antiHTN.qmd
         - entresto.qmd
+        - steroids.qmd
     - summary.qmd
     - references.qmd
 
 bibliography: references.bib
-
+pdf-engine: xelatex
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     code-copy: true
   pdf:
-    documentclass: scrreprt
+    documentclass: scrbook
+    include-in-header: 
+      text: |
+        \usepackage{enumitem}
+        \setlistdepth{9}
+        \setlist[itemize,1]{label=\textbullet}
+        \setlist[itemize,2]{label=\textbullet}
+        \setlist[itemize,3]{label=\textbullet}
+        \setlist[itemize,4]{label=\textbullet}
+        \setlist[itemize,5]{label=\textbullet}
+        \setlist[itemize,6]{label=\textbullet}
+        \setlist[itemize,7]{label=\textbullet}
+        \setlist[itemize,8]{label=\textbullet}
+        \setlist[itemize,9]{label=\textbullet}
+        \renewlist{itemize}{itemize}{9}
 
 
 

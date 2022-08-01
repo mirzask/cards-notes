@@ -1,8 +1,8 @@
 # Chest Pain {#sec-chestpain}
 
-##
+## Note
 
-```text
+``` text
 Chest pain, *** typical/atypical/non-cardiac
 - HEART score: ***, TIMI score: ***
 - EKG
@@ -21,7 +21,7 @@ Chest pain, *** typical/atypical/non-cardiac
 - Echo?
 ```
 
-:::{.callout-note}
+::: callout-note
 The base rate for myocardial infarction in pts presenting with chest pain is 15%, i.e. about 15% of pts who arrive at the ED complaining of CP are having an MI. \~33% of those patients who wind up getting admitted with suspicion of an MI are actually having an MI.
 :::
 
@@ -40,10 +40,11 @@ The base rate for myocardial infarction in pts presenting with chest pain is 15%
     -   **A**ortic dissection
 
     -   **C**ardiac tamponade
-    - Other emergenct causes: Takotsubo cardiomyopathy, esophageal impaction
+
+    -   Other emergenct causes: Takotsubo cardiomyopathy, esophageal impaction
 
 \
-![CPSolvers Chest Pain schema](https://i0.wp.com/clinicalproblemsolving.com/wp-content/uploads/2020/07/7.3_chestpain_.png?resize=1536%252C1087&ssl=1)
+[![](images/paste-EBF62467.png){width="683"}](https://i0.wp.com/clinicalproblemsolving.com/wp-content/uploads/2020/07/7.3_chestpain_.png?resize=1536%252C1087&ssl=1)
 
 ## History Elements
 
@@ -51,18 +52,18 @@ The base rate for myocardial infarction in pts presenting with chest pain is 15%
 
 <!-- -->
 
-- Hx:
-  - Description: pressure, burning, aching, squeezing, piercing
-  - Duration of Sx: acute vs. chronic
-  - Denied palpitations. radiation of pain, abdominal pain, nausea, vomiting, diaphoresis, or change in appetite.
-  - Pain is not made worse with deep inspiration or sudden movements. No other palliative or provocative features.
-  - Denied fevers, chills, cough, no increased sputum production.
-  - Denied dysphagia, globus sensation.
+-   Hx:
+    -   Description: pressure, burning, aching, squeezing, piercing
+    -   Duration of Sx: acute vs. chronic
+    -   Denied palpitations. radiation of pain, abdominal pain, nausea, vomiting, diaphoresis, or change in appetite.
+    -   Pain is not made worse with deep inspiration or sudden movements. No other palliative or provocative features.
+    -   Denied fevers, chills, cough, no increased sputum production.
+    -   Denied dysphagia, globus sensation.
 -   Hx that *decreases* the likelihood of MI:
     -   pleuritic pain
     -   sharp or stabbing pain
     -   positional pain
-    
+
 ## Cardiac Risk Factors
 
 -   HTN, DM, HLD
@@ -78,26 +79,25 @@ The base rate for myocardial infarction in pts presenting with chest pain is 15%
     -   sedentary
     -   obesity
 
-
 ## Clinical Decision Rules
 
-- HEART score
-  - History, ECG, Age, Risk Factors, and Troponin
-- TIMI score
-- GRACE score
-- Others:
-  - Patient in the ED with chest pain: Sanchis score, Vancouver rule, HEART score, HEARTS~3~ score, Hess prediction rule
+-   HEART score
+    -   History, ECG, Age, Risk Factors, and Troponin
+-   TIMI score
+-   GRACE score
+-   Others:
+    -   Patient in the ED with chest pain: Sanchis score, Vancouver rule, HEART score, HEARTS~3~ score, Hess prediction rule
 
 ## Causes of Chest Pain
 
 ### Cardiac Causes
 
-- ACS: UA, NSTEMI, STEMI
-- Pericarditis/Myocarditis
-- Stable angina
-- Aortic dissection
-- Expanding aortic aneurysm
-- Pulmonary embolism
+-   ACS: UA, NSTEMI, STEMI
+-   Pericarditis/Myocarditis
+-   Stable angina
+-   Aortic dissection
+-   Expanding aortic aneurysm
+-   Pulmonary embolism
 
 +-----------------------+-------------------------------------------+
 | Classification        | Symptoms                                  |
@@ -113,11 +113,11 @@ The base rate for myocardial infarction in pts presenting with chest pain is 15%
 
 ### Non-Cardiac of Chest Pain
 
-:::{.callout-warning}
+::: callout-warning
 MSK disorders and GERD are common causes of CP that can *mimic* angina (worse w/ activity, sensation of pressure).
 :::
 
-- MSK: costochondritis, rib fx, precordial catch syndrome, Tietze syndrome, pectoral mm. strain, C4-T6 spondylosis, myositis
+-   MSK: costochondritis, rib fx, precordial catch syndrome, Tietze syndrome, pectoral mm. strain, C4-T6 spondylosis, myositis
 -   Breast: fibroadenomas, mastitis, gynecomastia
 -   Derm: herpes zoster
 -   Esophageal/GI: esophageal rupture, esophageal impaction, esophagitis, esophageal ulcer, esophageal spasm, GERD, PUD, malignancy, GB disease, liver abscess, pancreatitis, liver abscess
@@ -161,7 +161,7 @@ Study of 100 patients showing prevalence of history findings in cardiac versus e
 | Presence of GI symptoms                   | 46                                        | 83                                           |
 +-------------------------------------------+-------------------------------------------+----------------------------------------------+
 
-:::{.callout-tip}
+::: callout-tip
 ## Nitroglycerin response cannot discern cardiac vs other causes of CP
 
 "history cannot differentiate esophageal chest pain from pain due to cardiac ischemia. That said, pain that occurs with swallowing, is persistent, wakes the patient from sleep, is positional, and is associated with heartburn or regurgitation is more likely to be of esophageal origin... The effect of nitroglycerin in relieving chest pain has consistently been found to be useless in differentiating anginal chest pain from esophageal or other causes of chest pain." (Source: Symptom to Diagnosis)

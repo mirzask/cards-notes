@@ -46,65 +46,39 @@ TODO
     -   According to the MESA study, diabetics with a CAC score of zero had similar event rate as those without diabetes [@bertoni2016].
 
 -   Statin flavors:
-
     -   High-intensity
-
         -   Atorvastatin 40-80
-
         -   Rosuvastatin 20-40
-
     -   Moderate-intensity
-
         -   Atorvastatin 10-20
-
         -   Rosuvastatin 5-10
-
         -   Simvastatin 20-40
-
         -   Pravastatin 40-80
 
 -   LDL reduction goals on statin therapy
-
     -   High-intensity: ↓ in LDL by \> 50%
-
     -   Moderate-intensity: ↓ in LDL by 30-49%
-
     -   Low-intensity: ↓ in LDL by \< 30%
-
 -   **Follow-up**
-
     -   Repeat LDL 4-12 wks after initiation
-
     -   Subsequent f/u: repeat LDL after 3-13 months (depending on the pt)
-
         -   stable: check annually or even every 4-6 years in younger pts
 
 -   Who *always* is indicated to receive a statin?
-
     -   DM + age \> 40 yo
-
     -   Primary hypercholesterolemia (LDL ≥ 190)
 
 -   **Secondary prevention**
-
     -   High-intensity statin (unless \> 75 yo, where recommended to start high/moderate-intensity statin)
-
     -   If LDL goal is *not met*:
-
         -   add ezetimibe (Zetia) (IMPROVE-IT trial)
-
         -   if still not at goal → add PCSK9 inhibitor (ODYSSEY and FOURIER trials)
 
 -   Lifestyle modifications
-
     -   Diet
-
         -   😋 Enjoy rich in fruits, veggies, polyunsaturated fats, lean meats, plant-based proteins, phytosterols and fiber
-
         -   ⚠️ Avoid saturated fats, refined carbs/sweets and red meat
-
     -   Exercise
-
         -   Moderate/vigorous intensity aerobic exercise 3-4x/wk for 40 mins each session
 
 +------------------------------------------+-------------------------+----------------------------------------------------+
@@ -135,33 +109,21 @@ TODO
 : Lipid Management ([Curbsiders, Ep. 191](https://thecurbsiders.com/podcast/191-lipids))
 
 -   Clinical features of *severe* hyperlipidemia
-
     -   Xanthelasma
-
         -   yellow plaques on eyelids
-
     -   Xanthoma
-
         -   hard, yellow masses typically found on tendons (finger extensors, Achilles, plantar tendons)
-
     -   Pancreatitis - if *severe* hypertriglyceridemia
 
 ## Hypertriglyceridemia
 
 -   First-line: lifestyle modification
-
 -   If TG persistently \> 500 mg/dL → next step is to start a statin
-
 -   If TG \> 1,000 mg/dL → start a fibrate (to avoid pancreatitis)
-
 -   Icosapent ethyl (REDUCE-IT trial) [@bhatt2019]
-
     -   not the same thing as fish oil
-
     -   can be added to pts with ↑ TG despite being on statins, i.e. add as an adjunct to statins
-
         -   ↑ TG defined in REDUCE-IT trial: TG level of 135-499 mg/dL
-
     -   Dose from REDUCE-IT trial: 2 g of icosapent ethyl BID
 
 ## O'Keefe Lecture Notes

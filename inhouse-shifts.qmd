@@ -1,0 +1,106 @@
+# In-House Moonlighting
+
+## When you arrive
+
+1.  Go to the CICU (located on the 4th floor of MAHI). This should be considered central station.
+2.  Get the pager from the B service fellow.
+3.  Login to Voalte and set your status to 'Available'
+4.  If on during the day, text the SLH Triage RN (on-site from 7AM-5PM)
+5.  Get in touch with the attendings (typically via text).
+    1.  You can determine who is on from the Weekly Call Schedule sent out by Lori Wilson. Attendings are listed under the top block ('Provider Call'). The A service attending is the one under 'PLZ/SLN CALL 5P-7A'. The B service attending is listed under 'B SERVICE CALL 5P-7A.'
+    2. Text A service attending and ask if resident should call to check in at 2100 and 0600 or if they prefer another time. Typically, the resident and attending communicate with one another and you need not be on the call.
+    3. Text B service attending to let them know you are the one on service tonight.
+6.  Print out the CICU patient list.
+    1.  Go to the CICU patient list in Epic → At the top, click the 'Print' button → Select 'Current List' (this is the one Vittal likes)
+    2. For each CICU pt, make note of the service (HF, Consult, B service)
+7. Check the Cardiology Consults Patient List: anything that does not have SLCC Plaza Unassigned has _not_ been seen/assigned yet.
+8. Round on each patient in the CICU: introduce yourself to patient and family, check lines/cath sites (bleeding? palpate for hematoma? pulse check to ensure 2+), monitors, make note of inotropes/pressors. Helpful to make note if the patient has a PAC/Swan.
+
+:::{.callout-tip}
+The nurses have shift change at 7PM, so it is important to quickly round on the CICU patients before then to get a "warm" handoff or troubleshoot any issues because they are most familiar with the days events and progress.
+:::
+
+## Flavors of Admissions
+
+:::{.callout-caution}
+You will _not_ add a cosigner to your notes. Make sure to **Share** your note, rather than clicking Sign!
+:::
+
+- ✍️ When creating a new note, click on the "deck of cards" for SmartText lookup. Select the appropriate SmartText, e.g. `CAR H&P` from the list.
+- When you get a new patient, make sure to add them to the "SLCC Plaza Unassigned" patient list
+  - From the patient list, right click on their name and select 'Assign Teams' → Enter "SLCC Plaza Unassigned" to then add them.
+
+### Consults
+
+- Note: Use the 'CAR CONSULT NOTE' SmartText
+- At the bottom, be sure to include a blurb like: "Thank you for this interesting consult. Please refer to attending addendum for additional details or modifications."
+
+### Admissions
+
+- Floor admissions are under the supervision of the SLCC Plaza (A Service) attending. If the patient is stable and straightforward, you do not have to call the attending. You can call/text/email at 6AM for handoff and touch base. Early on, Vittal prefers to call at 6AM to also get feedback on his plan and management of the patient.
+- ICU admission are under the supervision of the B service attending. All ICU admissions need to be run by the B service attending.
+
+**Orders**
+
+- General floor: use the 'Cardiovascular Initial Care' order set
+- ICU: use the 'ICU Initial Care' order set
+
+**Notes**
+
+- General admission: use the 'CAR H&P' SmartText
+- Direct admit from clinic: use the 'SLCC H&P COPIED FROM OFFICE VISIT' SmartText
+- CT Surgery admission: create a Clinical Update/Significant Event note. Write a brief free text note.
+  - do not add a cosigner
+  
+## SLC TODO Column
+
+- This is a nice feature to communicate across teams and keep track of items (as the name implies)
+- Line 1: Who saw the patient
+- Line 2: "Admit/Consult (DD)" followed by very brief reason for admission
+  - where `DD` is the day of the month from MM/DD/YY
+- Common examples:
+  - "To be seen by the NF resident - 2'
+    - The '2' at the end means it is the residents 2nd (out of 5) admissions
+  - After the resident has staffed with the attending → "Seen by NF resident"
+  - "Seen by Cards fellow"
+  - If patient needs sub-specialty 👀 → "Add to HF/TXP list" or "Needs to be seen by ACHD"
+  
+```text
+# Example 1
+Seen by Cards fellow
+**Add to HF/TXP list**
+Consult (27) s/p OHT, admitted for ...
+
+# Example 2
+Seen by Cards fellow
+Admit (27) Complete heart block
+
+# Example 3
+Seen by NF resident - 3
+Consult (27) Heart failure
+
+# Example 4
+Seen by Cards fellow
+**Needs to be seen by ACHD**
+Admit (27) Sinus brady d/t ...
+```
+
+## Epic Things to Know
+
+- View an ECG
+  - Results Review → ECG is an option on the left side → Select the ECG you'd like to review; may need to scroll down and click the `Scan...` hyperlink.
+- Review only Cardiology notes
+  - Chart Review → Select 'Notes' → On the top toolbar, check the 'SLCC Notes' box to filter for only SLCC notes.
+- Cost consult to check pricing on things like SGLT2i
+  
+## Order Sets
+
+- See above for admission order sets
+- Pre-procedure order sets:
+  - TEE: use the 'Cardioversion/TEE pre-procedure' order set
+  - Cath (and others): use the 'Cardiovascular Laboratory Orders Pre-procedure' order set
+  
+## On Call Room
+
+- Keep it clean. If you use it during the day, ask housekeeping to come clean the room so the night fellow has a clean room to come to.
+  - TODO: Vittal has a nice blurb in an email with more details that I should add.

@@ -1,0 +1,17 @@
+# Aspirin
+
+## Aspirin for Primary Prevention
+
+-   TODO: review material and put together something coherent
+-   Trials:
+    -   ASPREE trial
+
+    -   ARRIVE trial
+
+    -   ASCEND trial
+-   [USPSTF recommendation](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/aspirin-to-prevent-cardiovascular-disease-preventive-medication)
+-   The Curbsiders podcast #347: [USPSTF Update: Aspirin for Primary Prevention of CVD](https://thecurbsiders.com/internal-medicine-podcast/347-uspstf-update-aspirin-for-primary-prevention-of-cvd)
+-   NEJM Curbside Consult podcast: [USPSTF Recommendation Statement on Aspirin Use with Dr. Michael Barry](https://resident360.nejm.org/curbside-consults/uspstf-recommendation-statement-on-aspirin-use-with-dr-michael-barry)
+-   Schenone AL, Lincoff AM. Aspirin for primary prevention of atherosclerotic cardiovascular events. CCJM. 2020;87(5):300-311. doi:10.3949/ccjm.87a.19045
+
+[![](images/paste-B707FED9.png){width="480"}](https://thecurbsiders.com/internal-medicine-podcast/347-uspstf-update-aspirin-for-primary-prevention-of-cvd)
