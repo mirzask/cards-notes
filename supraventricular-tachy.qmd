@@ -4,6 +4,22 @@
 
 ![Different types of supraventricular tachyarrhythmias.](images/cards-SVT-types.jpg)
 
+<blockquote class="twitter-tweet">
+
+<p lang="en" dir="ltr">
+
+This is the best explanation of SVT I've ever seen ⬇️<br><br>Via <a href="https://twitter.com/PatologCritica?ref_src=twsrc%5Etfw">@PatologCritica</a> h/t <a href="https://twitter.com/Innov_Medicine?ref_src=twsrc%5Etfw">@Innov_Medicine</a> <a href="https://twitter.com/hashtag/MedTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#MedTwitter</a> <a href="https://t.co/52RWVcE3uY">pic.twitter.com/52RWVcE3uY</a>
+
+</p>
+
+--- Avraham Z. Cooper, MD (@AvrahamCooperMD) <a href="https://twitter.com/AvrahamCooperMD/status/1556067060756713477?ref_src=twsrc%5Etfw">August 6, 2022</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
 ## Irregular tachycardias (narrow complex)
 
 -   Multifocal atrial tachycardia (MAT) (Figure @fig-irregtachy A)

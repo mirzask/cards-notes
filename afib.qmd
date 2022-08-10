@@ -79,6 +79,10 @@ Formula to convert diltiazem gtt to PO dilt: $\text{PO} = [(\text{IV (mg/hr)} \t
     -   HTN
     -   EtOH use disorder
 
+## Drugs that may cause/exacerbate AFib
+
+-   See Table 2 in AHA Statement on Drug-Induced Arrhythmias [@tisdale2020]
+
 ## Cardioversion Rules
 
 -   If AFib d/t thyrotoxicosis, cardioversion is often unsuccessful before restoration of a euthyroid state

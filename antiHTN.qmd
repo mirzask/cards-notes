@@ -1,5 +1,7 @@
 # Anti-Hypertensive Medications
 
+- Thiazide diuretics (@sec-thiazides)
+
 ## Things to know
 
 - Amlodipine takes about 30 hours to take effect

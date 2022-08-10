@@ -1,0 +1,5 @@
+# Carotid artery stenosis
+
+- Pts with carotid artery atherosclerosis are at higher risk for MI than they are for either stroke or TIA.
+- Indication for carotid endarterectomy (CEA):
+    -   severe (\>70%) carotid artery stenosis in pts w/ Sx TIA or CVA

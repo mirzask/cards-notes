@@ -1,6 +1,5 @@
 # Heart Failure {#sec-heartfailure}
 
-
 ## Note
 
 ``` text
@@ -42,6 +41,10 @@ as are studies in pts w/ HFpEF.
   - Daily home weights; procure weigh scale if needed
   - f/u in clinic w/in 1 week of discharge; f/u K, Cr and meds
 ```
+
+## TODO
+
+-   Include JCF paper "A Stepwise Guide to the Diagnosis and Treatment of HFpEF" [@vaishnav2022]
 
 ## Classifications of HF
 
@@ -105,6 +108,8 @@ Neprolysin inhibitors (ARNIs) can artificially ↑ BNP
 
 [![Quadruple Therapy in HFrEF with demonstrable mortality benefit.](images/paste-D16E435A.png)](https://twitter.com/gcfmd/status/1292201515914936320)
 
+[![](https://pbs.twimg.com/media/FZS54hfX0AAcsuH?format=jpg&name=large){width="647"}](https://twitter.com/brownjhm/status/1555072168098254849?s=12&t=k6J7OSLgfX7eg7cO2EPmUA)
+
 -   **Beta-blockers**: metoprolol XL, carvedilol, bisoprolol
 -   **ACEi/ARB**
 -   **ARNI** - sacubitril/valsartan (Entresto); See @sec-entresto
@@ -141,16 +146,13 @@ Neprolysin inhibitors (ARNIs) can artificially ↑ BNP
     -   if iron-deficiency +/- anemia
         -   ferritin \< 100 *or* ferritin 100-299 + Tsat \< 20% to improve functional status and QoL
     -   oral iron replacement is not effective \[IRONOUT-HF trial\]
-- **Vericiguat**
-
-
+-   **Vericiguat**
 
 [![Heart Failure Schema (by Jorge Cortes)](images/cards-HF-cortes.jpeg)](https://twitter.com/Jcortesizaguirr/status/1291351278040371200)
 
-
 **Resources**
 
--   Patient Page: Heart Failure [@Baman_Ahmad_2020] 
+-   Patient Page: Heart Failure [@Baman_Ahmad_2020]
 -   Association of Optimal Implementation of Sodium-Glucose Cotransporter 2 Inhibitor Therapy With Outcome for Patients With Heart Failure [@Bassi_Ziaeian_Yancy_Fonarow_2020]
 -   Heart Failure With Reduced Ejection Fraction: A Review [@Murphy_Ibrahim_Januzzi_2020]
     -   The FDA approved use of the SGLT2 inhibitor dapagliflozin for treatment of HFrEF irrespective of diabetes status is expected to become GDMT for all patients with HFrEF in the 2021 ACC/AHA HF guidelines
@@ -158,9 +160,8 @@ Neprolysin inhibitors (ARNIs) can artificially ↑ BNP
 -   **Podcasts**
     -   *Acute Decompensated Heart Failure* (The Curbsiders): [link](https://thecurbsiders.com/podcast/230)
     -   *5 Pearls on Inpatient Heart Failure* (CORE IM): [link](coreimpodcast.com/2020/06/24/5-pearls-on-inpatient-heart-failure/)
--   **Tweetorial** 
-  - Why can furosemide improve dyspnea/pulmonary edema from acute congestive heart failure within minutes of administration?: 🧵 [thread](https://twitter.com/AvrahamCooperMD/status/1292134482812604418?s=20)
-
+-   **Tweetorial**
+-   Why can furosemide improve dyspnea/pulmonary edema from acute congestive heart failure within minutes of administration?: 🧵 [thread](https://twitter.com/AvrahamCooperMD/status/1292134482812604418?s=20)
 
 ## Lifestyle Modifications
 

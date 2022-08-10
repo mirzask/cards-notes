@@ -1,0 +1,57 @@
+# Diabetes Mellitus
+
+[![Cardiovascular Risk Reduction in Type 2 Diabetes Mellitus Guidelines and Consensus Recommendations](images/paste-FA21FE57.png){width="590"}](https://www.jacc.org/doi/full/10.1016/j.jacc.2022.02.046)
+
+## Guideline Recommendations
+
+Source: [@kelsey2022]
+
+### Risk assessment
+
+|                        | ACC/AHA                                                     | ADA                                                         | AACE/ACE                                         | ESC/EASD                       | USPSTF                 | KDIGO             |
+|----------|------------|----------|----------|----------|----------|----------|
+| Risk assessment method | Pooled Cohort Equation and diabetes-specific risk enhancers | Pooled Cohort Equation and diabetes-specific risk enhancers | Framingham Risk Assessment Tool and risk factors | Moderate, high, very high risk | Pooled Cohort Equation | No recommendation |
+
+### Lifestyle modifications
+
+|             | ACC/AHA                                                 | ADA                                                     | AACE/ACE                                                | ESC/EASD                                                   | USPSTF                     | KDIGO                                                                             |
+|----------|------------|----------|----------|----------|----------|----------|
+| Exercise    | 150 min of moderate-intensity activity per week         | 150 min of moderate-intensity activity per week         | 150 min of moderate-intensity activity per week         | 150 min of moderate-intensity activity per week            | No specific recommendation | 150 min of moderate-intensity activity per week                                   |
+| Diet        | Individualized nutrition assessment; Mediterranean Diet | Individualized nutrition assessment; Mediterranean Diet | Individualized nutrition assessment; Mediterranean Diet | Individualized nutrition assessment; Mediterranean Diet    | No specific recommendation | Individualized nutrition assessment; Mediterranean Diet, 0.8 g protein/day if CKD |
+| Vitamin use | No recommendation                                       | No recommendation                                       | No recommendation                                       | Avoid vitamin supplementation to reduce ASCVD risk in T2DM | No recommendation          | No recommendation                                                                 |
+
+### BP management
+
+|                                      | ACC/AHA                | ADA                                                                       | AACE/ACE              | ESC/EASD                                                                             | USPSTF                                        | KDIGO                            |
+|----------|------------|----------|----------|----------|----------|----------|
+| BP target                            | \<130/80 mm Hg         | \<130/80 mm Hg if 10-y ASCVD risk ≥15%; \<140/90 if 10-y ASCVD risk \<15% | \<130/80 mm Hg        | \<130/80 mm Hg, (but not \<120/70 mm Hg), and 130-139 mm Hg in those older than 65 y | \<120/80 mm Hg only for stroke risk reduction | \<120/80 mm Hg if concurrent CKD |
+| First-line treatment of hypertension | ACE/ARB if albuminuria | ACE/ARB if albuminuria                                                    | ACE/ARB               | ACE/ARB if albuminuria or LVH                                                        | No recommendation                             | ACE/ARB if albuminuria           |
+| Indication for combination therapy   | If BP \>140/90 mm Hg   | Dual therapy first line regardless of BP                                  | If BP \>150/100 mm Hg | If BP \>160/100 mm Hg                                                                | No recommendation                             | No recommendation                |
+
+### LDL-C management
+
+|                                          | ACC/AHA                                                       | ADA                                                           | AACE/ACE                                    | ESC/EASD                                    | USPSTF | KDIGO |
+|----------|------------|----------|----------|----------|----------|----------|
+| Primary prevention treatment targets     | 50% LDL-C lowering for those at high risk                     | 50% LDL-C lowering for those at high risk                     | Numeric goal (LDL-C \<55, 70, or 100 mg/dL) | Numeric goal (LDL-C \<55, 70, or 100 mg/dL) | N/A    | N/A   |
+| Primary prevention in young patients     | Treat if longstanding disease, end-organ damage, risk factors | Treat if longstanding disease, end-organ damage, risk factors | No recommendation                           | Treat if LDL-C \> 100 mg/dL                 | N/A    | N/A   |
+| Secondary prevention treatment targets   | Goal 50% LDL-C reduction, start meds LDL-C \<70 mg/dL         | Goal 50% LDL-C reduction, start meds at LDL-C \<70 mg/dL      | LDL-C \<55 mg/dL                            | LDL-C \< 55mg/dL                            | N/A    | N/A   |
+| Secondary prevention second-line therapy | Ezetimibe                                                     | Ezetimibe or PCSK9i                                           | No recommendation                           | Ezetimibe                                   | N/A    | N/A   |
+
+### Hyperglycemia Tx
+
+|                                    | ACC/AHA                                                             | ADA                                                                 | AACE/ACE                                                            | ESC/EASD                   | USPSTF            | KDIGO                                                  |
+|----------|------------|----------|----------|----------|----------|----------|
+| First line                         | SGLT2i/GLP-1RA may be beneficial regardless of background metformin | SGLT2i/GLP-1RA may be beneficial regardless of background metformin | SGLT2i/GLP-1RA may be beneficial regardless of background metformin | SGLT2i/GLP-1RA first line  | No recommendation | Metformin and SGLT2i in combination for those with CKD |
+| Relative priority of SGLT2/GLP-1RA | SLGT2i \>GLP-1RA for HF, renal disease, weight loss                 | SLGT2i \>GLP-1RA for HF and renal disease                           | SLGT2i \>GLP-1RA for HF and renal disease                           | No specific recommendation | No recommendation | SGLT2 inhibitor first, GLP-1RA second line             |
+
+### Aspirin recs
+
+|                    | ACC/AHA                                                                  | ADA                                                                      | AACE/ACE          | ESC/EASD                                                              | USPSTF                                                              | KDIGO                                                                    |
+|----------|------------|----------|----------|----------|----------|----------|
+| Primary prevention | May be considered if elevated ASCVD risk without increased bleeding risk | May be considered if elevated ASCVD risk without increased bleeding risk | No recommendation | Not in moderate risk, but can be considered in high or very high risk | No significant risk reduction with aspirin in individuals with T2DM | May be considered if elevated ASCVD risk without increased bleeding risk |
+
+### CKD
+
+|                           | ACC/AHA | ADA                                | AACE/ACE | ESC/EASD | USPSTF            | KDIGO  |
+|----------|------------|----------|----------|----------|----------|----------|
+| Type 2 diabetes treatment | SGLT2i  | SGLT2i, specifically canagliflozin | SGLT2i   | SGLT2i   | No recommendation | SGLT2i |

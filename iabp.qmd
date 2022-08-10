@@ -1,0 +1,6 @@
+# Intra-Aortic Balloon Pump {#sec-iabp}
+
+- IABP-SHOCK II trial failed to show a clinical benefit of the IABP in acute coronary syndrome (ACS)-related Cardiogenic Shock.
+- Improves peripheral perfusion and decreases LV afterload in the setting of high filling pressures
+- UNOS prioritizes patients on IABP support for heart transplant
+- To-Read: Morici N, Marini C, Sacco A, et al. Intra-aortic balloon pump for acute-on-chronic heart failure complicated by cardiogenic shock. Journal of Cardiac Failure. 2022;28(7):1202-1216. doi:10.1016/j.cardfail.2021.11.009

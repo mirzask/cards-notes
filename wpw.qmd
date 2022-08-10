@@ -1,0 +1,14 @@
+# Wolff-Parkinson-White Syndrome
+
+-   ECG Triad:
+    -   short PR interval
+    -   wide QRS
+    -   'delta wave' - slurring slow rise of initial portion of the QRS
+
+::: callout-warning
+Avoid AV-nodal blocking agents in AFib w/ WPW
+:::
+
+## Mechanism
+
+[![](images/paste-3EC2872C.png){width="481"}](https://healthjade.net/wolff-parkinson-white-syndrome/)

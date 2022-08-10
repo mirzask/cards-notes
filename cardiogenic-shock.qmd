@@ -6,3 +6,8 @@
 - Cheyne-Stokes respiration
 - abdominal bloating/nausea
 - End-organ dysfunction: oliguria, AMS, etc.
+
+
+- Phenotypes
+  - ACS-related cardiogenic shock
+  - acute-on-chronic heart failure related cardiogenic shock

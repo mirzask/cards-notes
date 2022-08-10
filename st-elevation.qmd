@@ -1,0 +1,10 @@
+# ST-segment elevation
+
+- Common causes of **resting** STE
+    - acute MI
+    - pericarditis
+    - LV aneurysm
+    - LBBB
+    - LVH
+    - ventricular pacing
+    - benign early repolarization (J-point elevation)

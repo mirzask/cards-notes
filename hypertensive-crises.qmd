@@ -1,3 +1,12 @@
 # Hypertensive Crises
 
 TODO
+
+-   BP should be decreased by no more than 20 to 25% during the first hour and then to 160/100-110 mmHg during the ensuing 2-6 hours.
+-   2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines ([link](https://www.sciencedirect.com/science/article/pii/S0735109717415191))
+-   NEJM paper: 'Acute Severe Hypertension' [@peixoto2019]
+    -   Faced some criticism on #medtwitter as it contradicts established guidelines (Josh Farkas [thread](https://twitter.com/pulmcrit/status/1207829971659632640); Dan Kim [thread](https://twitter.com/dan___kim/status/1207334320760737794))
+
+[![](https://pbs.twimg.com/media/EegglNTWkAAEYJX?format=png&name=large "Hypertensive Emergency/Urgency Algorithm"){width="1000"}](https://twitter.com/haematognomist/status/1290317589525278720?s=20)
+
+![](images/paste-AB5A7304.png)

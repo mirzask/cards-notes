@@ -1,4 +1,4 @@
-# Syncope
+# Syncope {#sec-syncope}
 
 ## Note
 

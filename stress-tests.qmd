@@ -3,7 +3,7 @@
 -   Prevalence of CAD
 
 | **Age** | **Asymptomatic** | **Asymptomatic** | **Nonanginal Chest Pain** | **Nonanginal Chest Pain** | **Atypical Angina** | **Atypical Angina** | **Typical Angina** | **Typical Angina** |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|---------|------------------|------------------|---------------------------|---------------------------|---------------------|---------------------|--------------------|--------------------|
 |         | Male             | Female           | Male                      | Female                    | Male                | Female              | Male               | Female             |
 | 30--39  | 1.9              | 0.3              | 5.2                       | 0.8                       | 21.8                | 4.2                 | 69.7               | 25.8               |
 | 40--49  | 5.5              | 1.0              | 14.1                      | 2.8                       | 46.1                | 13.3                | 87.3               | 55.2               |
@@ -35,7 +35,7 @@ $$
     -   Presence of baseline EKG abnormality, e.g. LBBB ('**V**olks**W**agen **D**rivers **D**on't **L**itter')
 
 ::: callout-tip
-## EKG cannot be used if either of the following EKG abnormalities are present: V-paced rhythm, WPW, ST depression, Digoxin, LBBB (mnemonic: VolksWagen Drivers Don't Litter) \[Source\](https://www.coreimpodcast.com/2019/04/24/stress-testing/)
+EKG cannot be used if either of the following EKG abnormalities are present: V-paced rhythm, WPW, ST depression, Digoxin, LBBB (mnemonic: VolksWagen Drivers Don't Litter) \[Source\](https://www.coreimpodcast.com/2019/04/24/stress-testing/)
 :::
 
 -   3 types of stressors:
@@ -78,4 +78,15 @@ $$
 
     -   PET 💰
 
+## Warranty Period for Prior Cardiac Testing
 
++----------------+--------------------------------------------+-----------------+
+| Test Modality  | Result                                     | Warranty Period |
++================+============================================+=================+
+| Anatomic       | Normal coronary angiogram\                 | 2 years         |
+|                | CCTA with no stenosis or plaque            |                 |
++----------------+--------------------------------------------+-----------------+
+| Stress testing | Normal stress test (given adequate stress) | 1 year          |
++----------------+--------------------------------------------+-----------------+
+
+: Source: Table 7 of 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain

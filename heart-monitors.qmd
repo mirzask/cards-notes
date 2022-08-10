@@ -1,0 +1,13 @@
+# Cardiac Rhythm Monitors {#sec-heartmonitors}
+
+| **Type of monitor**                                       | **Device description**                                                                                                                                         |
+|:----------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Holter monitor                                            | Continuous recording for 1--14 days Symptom rhythm correlation with patient diary.                                                                             |
+| Event monitor (Patient-activated transtelephonic monitor) | Transmits patient activated data via a telephone line to a remote monitoring station.                                                                          |
+| External loop recorder (Patient or auto triggered)        | Continuously records and stores rhythm data over weeks to months. Triggered events provide recording before, during, and after events.                         |
+| External patch recorders                                  | An adhesive applied to the chest that records for 2--14 days. Provides only a single lead recording as compared to a Holter monitor or external loop recorder. |
+| Mobile cardiac outpatient telemetry                       | A wearable monitor that records and transmits data automatically to a central monitoring station that is attended 24 h per day by trained technicians.         |
+| Implantable subcutaneous cardiac rhythm monitor           | Subcutaneously implanted device that provides recording of patient triggered or auto triggered events over the course of approximately 3 years.                |
+| Smartphone/ Mobile digital -based system                  | Can record a single lead rhythm strip when activated by patient.                                                                                               |
+
+: Types of cardiac rhythm monitors. (Sidhu & Marine, 2020)

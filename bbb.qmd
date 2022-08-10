@@ -1,0 +1,35 @@
+# Bundle Branch Blocks
+
+## Left BBB
+
+- V~1~: wide QRS, *negative* S deflection ('deep S wave')
+- V~6~: wide QRS, *positive* R deflection ('tall R wave'); may have dicrotic notch ('M-shaped')
+-   Other features ([Source](https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/)):
+    -   *Appropriate discordance*: the ST segments and T waves always go in the opposite direction to the main vector of the QRS complex
+    -   Poor R wave progression in the chest leads
+    -   LAD (typically)
+-   Causes:
+    -   LBBB/paced rhythm/ventricular ectopy
+    -   LVH
+    -   LAFB
+    -   WPW
+    -   inferior MI
+
+## Right BBB
+
+-   V~1~: wide QRS, RSR' pattern ('M-shaped pattern' or 'bunny ear pattern')
+-   V~6~: wide QRS, small upward deflection (R wave) followed by 'wide, slurred S wave'
+-   Other features:
+    -   ST depression and T wave inversion in the right precordial leads (V1-3)
+    -   often normal axis deviation (unless other cause, e.g. RVH, which leads to RAD)
+-   Causes:
+    -   LPFB
+    -   lateral MI
+    -   RVH
+    -   PE
+    -   COPD
+    -   ventricular ectopy
+    -   WPW
+    -   hyperK
+    -   Na-channel blocker toxicity
+    -   could be normal in those with horizontally positioned heart

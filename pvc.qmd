@@ -1,0 +1,6 @@
+# Premature ventricular contractions (PVCs)
+
+- Classic features on EKG
+    -   widened QRS (\> 120 msec)
+    -   compensatory pause
+    -   bizarre morphology

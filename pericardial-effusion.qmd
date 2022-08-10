@@ -1,0 +1,13 @@
+# Pericardial Effusion
+
+Related: Cardiac Tamponade (@sec-tamponade)
+
+- Amount of fluid (in mL) that is *normally* within the pericardial space: 15 to 50 mL
+- EKG: Electrical alternans
+    - the amplitudes of the QRS complexes vary from beat to beat
+- CXR: enlarged 'water-bottle' heart
+
+## Electrical alternans
+
+- the amplitudes of the QRS complexes vary from beat to beat
+- seen if large pericardial effusion
