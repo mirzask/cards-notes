@@ -1,0 +1,17 @@
+# Pulmonary Hypertension
+
+Hemodynamic definitions of Pulmonary HTN from ESC 2022 (Barcelona)
+
+| Definition                          | Hemodynamic Characteristics                             |
+|-------------------------------------|---------------------------------------------------------|
+| PH                                  | mPAP \> 20 mmHg                                         |
+| Pre-capillary PH                    | mPAP \> 20 mmHg<br>PAWP ≤ 15 mmHg<br>PVR \>2 WU         |
+| Isolated post-capillary PH          | mPAP \> 20 mmHg<br>PAWP \> 15 mmHg<br>PVR ≤2 WU         |
+| Combined post- and pre-capillary PH | mPAP \> 20 mmHg<br>PAWP \> 15 mmHg<br>PVR \>2 WU        |
+| Exercise PH                         | mPAP/CO slope between rest and exercise \> 3 mmHg/L/min |
+
+: Hemodynamic definitions of Pulmonary Hypertension
+
+::: callout-note
+2 Woods Units = 160 dynes/sec/cm^-5^
+:::

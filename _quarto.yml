@@ -25,6 +25,7 @@ book:
         - troponinemia.qmd
         - syncope.qmd
         - heart-monitors.qmd
+        - pulmonary-htn.qmd
         - smoking-cessation.qmd
         - weight-loss.qmd
     - part: "Physical Exam"
@@ -92,6 +93,7 @@ book:
     - part: "Pharmacology"
       chapters:
         - aspirin.qmd
+        - p2y12.qmd
         - statins.qmd
         - antiHTN.qmd
         - thiazides.qmd

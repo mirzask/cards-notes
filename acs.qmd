@@ -1,5 +1,15 @@
 # Acute Coronary Syndrome {#sec-acs}
 
+```{mermaid}
+graph TD
+    A[Acute Chest Pain<br>ED Evaluation] --> B(12-lead ECG)
+    B --> C[Normal/ST-T changes, but No STE]
+    B --> D[ST Elevation]
+    D --> E(Active STEMI Protocol)
+    C --> F(Tn-<br>Unstable Angina)
+    C --> G(Tn+<br>NSTEMI)
+```
+
 ## Note
 
 ### UA/NSTEMI
@@ -36,13 +46,9 @@ TODO
 ## Definitions
 
 -   UA is angina that is either:
-
     -   new (\< 2 months)
-
     -   increased in severity or frequency
-
     -   occurs at rest
-
 -   The difference between unstable angina (UA) and NSTEMI is the absence or presence of cardiac enzymes, respectively.
 
 ## MI Subtypes based on etiology
@@ -54,6 +60,11 @@ TODO
 -   **Type 5**: MI associated with CABG
 
 ## Clinical Presentation
+
+-   Pts presenting with NSTE-ACS, 1/3 will have a *normal* ECG!
+    -   Repeat in 15-30 mins (esp if hx raises suspicion for ACS)
+    -   Consider add'l leads, i.e. posterior, RV
+    -   Telemetry
 
 > 💡Response to nitroglycerin should not be used as a diagnostic test in the evaluation of chest pain.
 
@@ -106,47 +117,27 @@ Patients with kidney disease often have elevated troponin levels raising the ris
 
 ## Inferior MI
 
-
 -   **Inferior MI** may present with acute severe epigastric pain, anorexia, n/v and diaphoresis
-
     -   Why? ↑ vagal tone and irritation of the diaphragm by adjacent infarcted inferior wall
-
 -   Every pt presenting with a suspected **acute inferior MI** should get a right-sided EKG
-
     -   R-sided EKG will show ≥ 1 mm ST elevation in leads RV4-RV6
-
 -   If a pt presenting with **inferior MI** **+ hypOtension** → get a R-sided EKG
-
 -   Right ventricular infarction is almost always due to occlusion of the right coronary artery (RCA)
-
 -   Clinical triad of right ventricular infarction
-
     -   hypOtension
-
     -   clear lung fields
-
     -   ↑ JVP
-
 -   In acute inferior MI and PA catheter shows ↓ PCWP, ↑ RA pressure: give fluids until BP normalizes
-
     -   What's going on? RV infarct → RV failure, so the RV is unable to fill the L side of the heart
-
 -   Management of RV infarction differs from mgmt of LV infarction in the following ways:
-
     -   avoid nitrates and other agents that ↓ preload in RVI
-
     -   *give* fluids if RVI + hypOtensive
-
 -   Cardiac complications more common with inferior MIs (compared to anterior MIs):
-
     -   bradycardia
-
     -   AV block
-
     -   Why these complications with inferior MIs? Due to ↑ vagal tone and AV nodal ischemia associated w/ inferior infarcts
 
 > Although AV block is more common with inferior MIs. If it does occur with anterior MI, it is due to destruction of a large amount of myocardium in the interventricular septum. ∴ AV block in setting of an *anterior* MI is associated with higher mortality than AV block in setting of *inferior* MI (transiet, no ppm required). AV block due to *anterior* MI requires pacemaker placement.
-
 
 ## ECG Criteria
 
@@ -218,6 +209,56 @@ Patients with kidney disease often have elevated troponin levels raising the ris
 -   If a patient has taken a **PDE-5 inhibitor**, e.g. viagra, you should wait **24 hrs** before giving **nitroglycerin**
 
     -   Exception: tadalafil (Cialias), where you should wait **48 hrs**
+
+### Revascularization in STEMI
+
+-   Complete revascularization is superior to culprit-only revac for the primary endpoint of CV death and MI.[@mehta2019] Of note, these patients were NOT in shock.
+
+    -   Revascularization of the non-culprit lesions need not occur at the time as **primary PCI** (revascularization of the culprit lesion(s)). In other words, can use a **staged revascularization** strategy.
+
+    -   Optimal timing of **staged** procedure unclear
+
+        -   Pre-discharge or within 30 days resulted in *same* outcome
+
+    -   In the COMPLETE trial, complete revascularization was *not* performed at index Primary PCI
+
+-   For patients who present in **cardiogenic shock** (See @sec-cardiogenicshock), mortality was lower among those who had culprit-only PCI rather than immediate (not staged) multivessel PCI. [@thiele2017]
+
+    -   Any potential advantage of multivessel PCI is outweighed by mortality hazard of the initial longer procedure.
+
+    -   Main proven goal in *shock* is rapid and complete reperfusion of culprit vessel
+
+### STEMI at non-PCI hospital
+
+-   If expecting delay, i.e. first medical contact to primary PCI \>120 min
+
+    -   Pharmaco-invasive strategy
+
+        -   Full dose lysis, heparin, clopidogrel (loading dose) and
+
+            -   Clopidogrel 300 mg (or 75 mg if \> 75 yo)
+
+        -   Send to PCI-capable hospital for routine PCI
+
+        -   Outcomes equivalent to and safe as primary PCI
+
+            -   CAPTIM [@bonnefoy2009; @steg2003]
+
+            -   WEST [@armstrong2006]
+
+            -   Fast MI registry [@danchin2008]
+
+            -   STREAM [@armstrong2013]
+
+    -   Look for evidence of successful reperfusion after 90-120 mins of getting lytics
+
+        -   looking for STE resolution, specifically \>50% resolution in initial ECG of lead with maximum STE
+
+        -   If no STE resolution, considered to have failed lytic therapy → go urgently to cath lab
+
+        -   If STE resolution, then responded to lytics → go to cath lab 3-24 hrs after getting lytics for revasc
+
+            -   Avoid routine immediate coronary angiography d/t higher risk of stent thrombosis and CVA
 
 ### Conservative (medical) management of acute UA/NSTEMI
 

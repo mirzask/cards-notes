@@ -2,8 +2,8 @@
 
 ## Left BBB
 
-- V~1~: wide QRS, *negative* S deflection ('deep S wave')
-- V~6~: wide QRS, *positive* R deflection ('tall R wave'); may have dicrotic notch ('M-shaped')
+-   V~1~: wide QRS, *negative* S deflection ('deep S wave')
+-   V~6~: wide QRS, *positive* R deflection ('tall R wave'); may have dicrotic notch ('M-shaped')
 -   Other features ([Source](https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/)):
     -   *Appropriate discordance*: the ST segments and T waves always go in the opposite direction to the main vector of the QRS complex
     -   Poor R wave progression in the chest leads
@@ -14,6 +14,8 @@
     -   LAFB
     -   WPW
     -   inferior MI
+
+[![](https://pbs.twimg.com/media/FebMAZaWAAIw0Il?format=jpg&name=4096x4096)](https://twitter.com/AkivaRosenzveig/status/1578176584019677185/photo/1)
 
 ## Right BBB
 

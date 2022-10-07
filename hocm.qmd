@@ -49,6 +49,11 @@
 
 -   Sx of advanced heart failure, e.g. orthopnea, PND, edema, are uncommon.
 
+- ECG findings classic for HOCM are:
+  - Ventricular hypertrophy
+  - Repolarization abnormalities in those leads with the tallest R waves
+  - Narrow, deep Q waves, of uncertain etiology, most often in the inferior and lateral leads
+
 -   *All* pts w/ HOCM and AFib should be on anticoagulation (regardless of CHADS-VASc)
 
     -   DOACs are first-line; warfarin is second-line

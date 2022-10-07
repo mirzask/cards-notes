@@ -1,0 +1,70 @@
+# P2Y~12~ Inhibitors
+
+Great review that I sourced the figure and table in Circulation. [@angiolillo2017]
+
+## Switching between Oral P2Y~12~ inhibitors
+
+[![Consensus recommendations on switching between oral P2Y12 inhibitors. A, Switching between oral agents in the acute/early phase. In the acute/early phase (≤30 days from the index event), switching should occur with the administration of a loading dose (LD) in most cases, with the exception of patients who are de-escalating therapy because of bleeding or bleeding concerns, in whom a maintenance dose (MD) of clopidogrel (C) should be considered. Timing of switching should be 24 hours after the last dose of a given drug, with the exception of when escalating to prasugrel (P) or ticagrelor (T), when the LD can be given regardless of the timing and dosing of the previous clopidogrel regimen. \*Consider de-escalation with clopidogrel 75-mg MD (24 hours after last prasugrel or ticagrelor dose) in patients with bleeding or bleeding concerns. B, Switching between oral agents in the late/very late phase. In the late/very late phase (\>30 days from the index event), switching should occur with the administration of an MD 24 hours after the last dose of a given drug, with the exception of patients changing from ticagrelor to prasugrel therapy, for whom an LD should be considered. De-escalation from ticagrelor to clopidogrel should occur with administration of an LD 24 hours after the last dose of ticagrelor (but in patients in whom de-escalation occurs because of bleeding or bleeding concerns, an MD of clopidogrel should be considered). \*Consider de-escalation with clopidogrel 75-mg MD (24 hours after last prasugrel or ticagrelor dose) in patients with bleeding or bleeding concerns.](images/paste-0167CB01.png)](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.117.031164)
+
+## Properties of P2Y~12~ inhibitors
+
+|                                                                                                         |                                                                                     |                                     |                                                          |                                     |
+|---------------|---------------|---------------|---------------|---------------|
+|                                                                                                         | **Clopidogrel**                                                                     | Prasugrel                           | Ticagrelor                                               | Cangrelor                           |
+| Receptor Blockade                                                                                       | **Irreversible**                                                                    | Irreversible                        | Reversible                                               | Reversible                          |
+| Prodrug                                                                                                 | Yes                                                                                 | Yes                                 | No                                                       | No                                  |
+| Half-life of parent drug                                                                                | ≈6 h                                                                                | \<5 min                             | 6--12 h                                                  | 3--6 min                            |
+| Half-life of active metabolite                                                                          | 30 mins                                                                             | Distribution half-life, 30--60 mins | 8--12 h                                                  | NA                                  |
+|                                                                                                         | Elimination half-life, 2--15 h                                                      |                                     |                                                          |                                     |
+| Binding site                                                                                            | ADP-binding site                                                                    | ADP-binding site                    | Allosteric binding site                                  | Undetermined                        |
+| Administration route                                                                                    | Oral                                                                                | Oral                                | Oral                                                     | Intravenous                         |
+| Frequency                                                                                               | Once daily                                                                          | Once daily                          | Twice daily                                              | Bolus plus infusion                 |
+| Onset of action[†](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.117.031164#tab1fn3)      | 2--8 h                                                                              | 30 min--4 h                         | 30 min--4 h                                              | ≈2 min                              |
+| Offset of action                                                                                        | 5--10 d                                                                             | 7--10 d                             | 3--5 d                                                   | 60 min                              |
+| CYP drug interaction[‡](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.117.031164#tab1fn4) | CYP2C19                                                                             | No                                  | CYP3A                                                    | No                                  |
+| Approved settings                                                                                       | ACS (invasive and noninvasively managed), stable CAD, PCI, PAD, and ischemic stroke | ACS undergoing PCI                  | ACS (invasive or noninvasively managed) or history of MI | PCI in patients with or without ACS |
+
+## Oral P2Y~12~ inhibitors
+
+-   Pearls
+
+    -   Clopidogrel
+
+        -   CYP2C19 polymorphisms
+
+        -   600 mg loading dose for immediate PCI
+
+        -   300 mg loading dose for delayed or post-fibrinolytic PCI
+
+    -   Ticagrelor
+
+        -   Dyspnea and ventricular pauses
+
+        -   60 mg BID is reasonable for pts extending Tx beyond 12 months
+
+    -   Prasugrel
+
+        -   Do not use for medically managed ACS
+
+        -   For PCI: load *after* angiography (but before the guidewire crosses the lesion)
+
+        -   Contraindicated in pts w/ hx of Stroke/TIA
+
+        -   5 mg daily is reasonable for pts ≤ 60 kg or ≥ 75 yo
+
+        -   Generic drug
+
+|                     | Clopidogrel (Plavix)                         | Ticagrelor (Brillinta)                              | Prasugrel (Effient)                        |
+|---------------------|----------------------------------------------|-----------------------------------------------------|--------------------------------------------|
+| Loading dose        | 300 mg/600 mg                                | 180 mg                                              | 60 mg                                      |
+| Maintenance Dose    | 75 mg daily                                  | 90 mg or 60 mg BID                                  | 10 mg or 5 mg daily                        |
+| Binding Site        | ADP                                          | Allosteric                                          | ADP                                        |
+| Platelet Inhibition | Irreversible                                 | Reversible                                          | Irreversible                               |
+| Pro-Drug            | Yes                                          | No                                                  | Yes                                        |
+| Metabolism          | Hepatic (CYP2C19) to active drug             | Hepatic (CYP3A4) to active metabolite               | Hepatic (CYP3A5/2B6) to active metabolite  |
+| Half-Life           | \<5 mins                                     | 6-12 hrs                                            | \<5 mins                                   |
+| Onset of Action     | 2-8 hrs                                      | 30 min-4 hrs                                        | 30 min-4hrs                                |
+| Offset of Action    | 5-10 days                                    | 3-5 days                                            | 7-10 days                                  |
+| Clinical Pearls     | Genetically-mediated dose response (CYP2C19) | ASA doses \> 100 mg/d ↓ effectiveness of ticagrelor | Contraindicated in pts w/ hx of TIA/stroke |
+
+: Comparison of Oral P2Y\~12\~ Inhibitors

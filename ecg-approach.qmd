@@ -33,6 +33,8 @@
 
 ## Axis
 
+The term axis refers to the direction of the mean electrical vector, representing the average direction of current flow. **It is defined in the frontal plane only**. The concept of axis deviation is most successfully applied to ventricular hypertrophy.[@thaler2018]
+
 -   Look at leads I and aVF
     -   ☝️☝️ → normal axis
     -   ☝️👇 → LAD
@@ -49,16 +51,40 @@
 
 ## Hypertrophy
 
-🚧 Need to add to this with other criteria
+Hypertrophied myocardium demands more blood supply for the overgrown heart muscle, but it has a reduced density of capillaries and is therefore more susceptible to ischemia than is normal myocardium. [@thaler2018]
 
 - Left ventricular hypertrophy (LVH)
-    - Two commonly used criteria:
-        - **R wave in V~5~-V~6~ (tallest) + S wave in V~1~-V~2~ \> 35 mm**, *or*
-        - R wave in lead I + S wave in lead III \> 25 mm
+  - Limb leads: will commonly find left axis deviation (LAD)
+  - **R wave in V~5~-V~6~ (tallest) + S wave in V~1~-V~2~ \> 35 mm**
+    - most specific, but not the most sensitive
+  - R wave in lead I + S wave in lead III \> 25 mm
+  - R wave in lead V5 > 26 mm
+  - R wave in lead V6 > 20 mm
+  - R wave amplitude in lead V6 exceeds the R-wave amplitude in lead V5
+  - Cornell Criteria: R wave in aVL + S wave in V3 > 28 mm in men or > 20 mm in women
+    - considered to be the most accurate
 - Right ventricular hypertrophy (RVH)
-    - Two commonly used criteria:
-        - R wave in V~1~ ≥ 7 mm
-        - R/S wave ratio in V~1~ \> 1
+  - Limb leads: will commonly find right axis deviation (RAD); mean axis > 100˚
+  - Two commonly used criteria:
+    - R wave in V~1~ ≥ 7 mm
+    - R/S wave ratio in V~1~ \> 1
+  - MCC are pulmonary disease and congenital heart disease
+
+Findings of ventricular hypertrophy may also be associated with **secondary repolarization abnormalities**, e.g. downsloping ST-segment depression and T wave inversion. If present, right ventricular repolarization abnormalities will be seen in leads V1 and V2, and left ventricular repolarization abnormalities will be most evident in leads I, aVL, V5, and V6. [@thaler2018]
+
+:::{.callout-tip}
+The normal P wave is less than 0.12 second in duration, and the largest deflection, that is, voltage, whether positive or negative, should not exceed 2.5 mm.[@thaler2018]
+:::
+
+- Left atrial enlargement (LAE; _P mitrale_)
+  - the terminal (left atrial) portion of the P wave >1 mm below the isoelectric line in lead V1 **and**
+  - the terminal portion of the P wave should be at least 1 small block (0.04 second) in width
+  - No significant axis deviation is seen because the left atrium is normally electrically dominant.
+- Right atrial enlargement (RAE; _P pulmonale_)
+  - P waves with an amplitude >2.5 mm in at least one of the inferior (leads II, III, and aVF)
+  - P wave with an amplitude >1.5 mm in V1, V2
+  - width of P wave often _unchanged_
+  - Possible right axis deviation of the P wave
 
 ## Intervals
 

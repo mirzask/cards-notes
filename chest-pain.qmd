@@ -25,6 +25,8 @@ Chest pain, *** typical/atypical/non-cardiac
 The base rate for myocardial infarction in pts presenting with chest pain is 15%, i.e. about 15% of pts who arrive at the ED complaining of CP are having an MI. \~33% of those patients who wind up getting admitted with suspicion of an MI are actually having an MI.
 :::
 
+[![Source: 10.1093/eurheartj/ehv320](images/paste-09D4376C.png)](https://academic.oup.com/eurheartj/article/37/3/267/2466099?login=false)
+
 ## Serious 6 causes of Chest Pain
 
 -   **Serious 6** life-threatening causes of Chest Pain (PET MAC)

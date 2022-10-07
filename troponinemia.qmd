@@ -2,12 +2,21 @@
 
 ## High-sensitivity Troponin
 
+- Overcomes early "Troponin-blind" period
 -   General 99th percentile reference limit is 19 ng/L (pg/mL)
 -   Sex-specific 99th percentile cutoffs for hc-cTnI:
     -   females: 16 ng/L (pg/mL)
     -   males: 34 ng/L (pg/mL)
--   Trend at q1-2h intervals (as opposed to q3-4h with standard Troponin)
-    -   UMich algorithm: if hs-cTnI increases by ≥ 6, then ACS ruled in
+-   Trend at q1/2/3 hr intervals (as opposed to q3-4h with standard Troponin)
+  - Trending q2h/q3h is more commonly seen
+  - UMich algorithm: if hs-cTnI increases by ≥ 6, then ACS ruled in
+
+### Caution
+
+- Late presenters with *low* hs-cTn, ∆ may be small
+  - In other words, those presenting late may only have a small ∆ in their hs-cTn so don't just rely on the ∆.
+- Single sample rule out only if last chest pain > 6 hrs ago (and no recurrent pain)
+  - In other words, if pt presents and last CP episode was > 6 hrs ago + hs-cTnI is _normal_ → ACS ruled out
 
 [![Troponin Interpretation for workup of suspected ACS. Source: Michigan Medicine Slides](images/paste-58364BD6.png)](https://www.med.umich.edu/clinical/Troponin%20T%20Assay%20Educational%20Presentation.pdf)
 

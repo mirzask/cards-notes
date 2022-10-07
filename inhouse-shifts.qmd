@@ -104,3 +104,8 @@ Admit (27) Sinus brady d/t ...
 
 - Keep it clean. If you use it during the day, ask housekeeping to come clean the room so the night fellow has a clean room to come to.
   - TODO: Vittal has a nice blurb in an email with more details that I should add.
+  
+## Discharge a patient from ED
+
+- Option 1: talk to the ED and see if it can be processed as an ED encounter and you will just write a consult note.
+- Option 2: if ED has decided to admit the patient to your service, you have to put in an admission order and H&P for it to be processed as an "inpatient" encounter. You can then discharge them from the ED. If you get a pop-up asking why less than 2 nights, add comment (e.g. improved faster than anticipated or has close follow-up ordered). You will then need to write a discharge summary (some keep this brief, i.e. "see H&P from today").
