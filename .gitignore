@@ -1,5 +1,4 @@
 /.quarto/
-/_book/
 
 # History files
 .Rhistory
@@ -50,6 +49,3 @@ po/*~
 rsconnect/
 
 # Quarto .gitgnore stuff
-/.quarto/
-/_site/
-/_book/
