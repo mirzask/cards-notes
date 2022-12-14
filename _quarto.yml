@@ -52,6 +52,7 @@ book:
         - bradycardia.qmd
         - afib.qmd
         - wpw.qmd
+        - complete-heart-block.qmd
         - pvc.qmd
         - supraventricular-tachy.qmd
         - ventricular-tachy.qmd
@@ -100,6 +101,7 @@ book:
         - thiazides.qmd
         - entresto.qmd
         - steroids.qmd
+        - immunosuppressants.qmd
     - summary.qmd
     - references.qmd
 

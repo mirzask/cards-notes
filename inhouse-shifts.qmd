@@ -92,6 +92,7 @@ Admit (27) Sinus brady d/t ...
 - Review only Cardiology notes
   - Chart Review → Select 'Notes' → On the top toolbar, check the 'SLCC Notes' box to filter for only SLCC notes.
 - Cost consult to check pricing on things like SGLT2i
+  - Use the `Consult to Care Progression` and "Reason for consult: Medication Cost Check"
   
 ## Order Sets
 

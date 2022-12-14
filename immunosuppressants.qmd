@@ -1,0 +1,83 @@
+# Immunosuppressants
+
+-   Some patients can be on "triple immunosuppression", e.g. prednisone, MMF, tacro
+
+<!-- -->
+
+    # On Chronic Immunosuppression
+    # s/p *** (OHT?) *** (year)
+    - *** complications?
+    - Immunosuppression regimen: ***
+    - Tacro level in AM
+
+    # Sepsis
+    - If pt is septic, hold MMF and consider stress dose steroids if pt on prednisone > 6 mos
+    - Consider ID consult
+    - Consider screen for atypical infections: EBV, CMV, BK
+    - If recurrent infection, consider if reduction in immunosuppression appropriate
+
+![](images/paste-1ADB81DD.png)
+
+Figure source: [@Fishman2007]
+
+## Calcineurin Inhibitors
+
+-   Side effects
+    -   Nephrotoxicity
+    -   HTN (CSA \> Tacro)
+    -   Post-transplant DM (Tacrolimus \> CSA)
+    -   Neurological (Tacrolimus)
+    -   Hirsutism (CSA) / Alopecia (Tacrolimus)
+    -   HLD ( CSA\> Tacrolimus)
+-   Medication interactions
+    -   Drugs that ↑ levels
+        -   Ca channel blockers Diltiazem, Verapamil, Amlodipine, Nicardipine (40% dose reduction)
+        -   Antifungal agents: Ketoconazole, Fluconazole, Itraconazole, Voriconazole (80% dose reduction)
+        -   Antibiotics: Macrolide (Clarithromycin), Chloramphenicol Tacrolimus), Erythromycin
+        -   mTOR inhibitors: increase CNI level
+    -   Drugs that ↓ levels
+        -   Antituberculosis drugs: Rifampn, Rifabun, Isoniazid
+        -   Anticonvulsant: Barbiturates, Phenytoin, Carbamazepine
+        -   Herbal preparation: St. John's wort
+        -   Cholestiramine (decreased absorption)
+
+### Tacrolimus
+
+-   Diarrhea as a cause of ↑ tacro levels?
+
+### Cyclosporine
+
+## Antimetabolite
+
+-   Side effects
+    -   Bone marrow toxicity (AZA \>MMF)
+    -   MMF-related birth defects
+    -   MMF dose related nausea, gastritis and diarrhea
+-   Medication interactions
+    -   Drugs that ↑ levels
+    -   Drugs that ↓ levels
+
+### Mycophenolate mofetil (MMF)
+
+### Azathioprine (AZA)
+
+## mTOR Inhibitors
+
+-   Sirolimus (rapamycin)
+
+-   Everolimus
+
+-   Side effects
+
+    -   Acne/rash
+    -   Mouth ulcers
+    -   HLD
+    -   anemia/thrombocytopenia
+    -   Proteinuria (rare) : Bx: FSGS, podocyte injury
+    -   Pneumonitis (4-11%) Sirolimus \> Everolimus
+    -   Sirolimus: anemia, NODAT
+
+-   Medication interactions
+
+    -   Drugs that ↑ levels
+    -   Drugs that ↓ levels

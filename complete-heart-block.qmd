@@ -1,0 +1,18 @@
+# Complete Heart Block
+
+```
+# Complete heart block
+- *** Failed atropine
+- Recommend holding all AVN blocking agents (BB & CCBs) 
+- *** The patient will be monitored on telemetry for further bradycardia.  Nursing staff will periodically monitor pacing threshold of temporary pacemaker and will alert physicians of any change in threshold. 
+- *** Keep transcutaneous pacemaker on patient at *** 60 BPM
+- *** Dopamine 5 and titrate up to 10 for persistent symptomatic bradycardia
+- No need for emergent tranvenous pacing given her stability; however, in the event that @HE@ decompensates, please page cardiology fellow for immediate transvenous pacing. 
+- Maintain Mg >2 & K >4 
+- Trend troponins q6h until downtrending. 
+- Will likely need an ischemic evaluation with MIBI v. LHC once stable. 
+- Obtain formal echo in the AM to determine systolic function.
+- Consult EP in the AM about need for permanent pacemaker placement.
+  - Anticipate that if systolic function on echocardiogram is normal or near normal, the patient will undergo permanent pacemaker placement in AM.
+- NPO at midnight
+```
