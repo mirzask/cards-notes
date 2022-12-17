@@ -32,6 +32,48 @@
 
 -   See different types of heart monitors in @sec-heartmonitors.
 
+-   Check for end-organ perfusion
+
+-   BP - check for hypOtension, HD instability
+
+-   QRS
+
+    -   if wide, suggests *escape* rhythm (bad!)
+        -   May need to get the dopamine going and begin coordinating for pacing
+    -   if narrow, good (relatively)
+
+-   Syncope - bad if present
+
+## Overnight Treatment Options
+
+-   Atropine
+    -   unlikely to be successful if block below AV node
+    -   rarely useful in complete heart block
+-   Transcutaneous pacing
+    -   temporary measure
+    -   uncomfortable for patient
+    -   can be used transiently if HD unstable
+-   Chronotropic medications, e.g. dopamine, dobutamine, and isoproterenol
+-   Transvenous pacing
+
+## Temporary transvenous pacemaker
+
+1\. Venous access
+
+2\. Setting up your generator
+
+3\. Floating the pacer wire
+
+4\. Ensure pacemaker capture and adjustment
+
+	1. Rate: usually 20 above intrinsic (80 bpm)
+
+	2. Output: once ECG capture, decrease mA to find minimum threshold for capture, then increase 2-3 times that
+
+	3. Sensitivity (mV): the higher the sensitivity, the lower threshold to pick up intrinsic rhythm. Usually decrease to half of the sensitvity threshold.
+
+Instructions and details on bedside placemet at [Taming the SRU](https://www.tamingthesru.com/transvenous-pacemaker)
+
 ## Symptoms
 
 -   Common symptoms of bradycardia include syncope, presyncope, transient dizziness or lightheadedness, fatigue, dyspnea on exertion, heart failure symptoms, or confusion resulting from cerebral hypoperfusion. [@sidhu2020]
@@ -130,13 +172,20 @@
 
 ## Pharmacotherapy
 
++--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Medication                                       | Utility                                                                                                                                                 |
-|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
++==================================================+=========================================================================================================================================================+
 | Atropine                                         | A parasympatholytic drug that can affect sinoatrial conduction, sinus node automaticity, and AV conduction.                                             |
++--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Isoprotenerol, Dopamine, Dobutamine, Epinephrine | Direct stimulation of beta-receptors to increase sinus node automaticity and AV conduction. Should use with caution if concerned for coronary ischemia. |
++--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Intravenous calcium                              | Can be used if bradycardia is attributed to calcium channel blocker overdose.                                                                           |
++--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Glucagon                                         | Can be used if bradycardia is attributed to calcium channel blocker or beta-blocker overdose. May cause nausea and vomiting.                            |
++--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 | High dose insulin                                | Can be used if bradycardia is attributed to calcium channel blocker or beta-blocker overdose. Risk of hypoglycemia.                                     |
++--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Aminophylline                                    | Can be used in heart transplant patients, spinal cord injury, or inferior MI with AV block.                                                             |
++--------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : Medications to treat bradycardia (Sidhu & Marine, 2020)

@@ -1,6 +1,112 @@
 # Intra-Aortic Balloon Pump {#sec-iabp}
 
-- IABP-SHOCK II trial failed to show a clinical benefit of the IABP in acute coronary syndrome (ACS)-related Cardiogenic Shock.
-- Improves peripheral perfusion and decreases LV afterload in the setting of high filling pressures
-- UNOS prioritizes patients on IABP support for heart transplant
-- To-Read: Morici N, Marini C, Sacco A, et al. Intra-aortic balloon pump for acute-on-chronic heart failure complicated by cardiogenic shock. Journal of Cardiac Failure. 2022;28(7):1202-1216. doi:10.1016/j.cardfail.2021.11.009
+-   First placed 1968 in New York at Maimonides Medical Center by Adrian Kantrowitz and colleagues
+
+-   IABP-SHOCK II trial failed to show a clinical benefit of the IABP in acute coronary syndrome (ACS)-related Cardiogenic Shock.
+
+-   Improves peripheral perfusion and decreases LV afterload in the setting of high filling pressures
+
+-   UNOS prioritizes patients on IABP support for heart transplant
+
+-   To-Read: Morici N, Marini C, Sacco A, et al. Intra-aortic balloon pump for acute-on-chronic heart failure complicated by cardiogenic shock. Journal of Cardiac Failure. 2022;28(7):1202-1216. doi:10.1016/j.cardfail.2021.11.009
+
+-   Mechanical device placed in the descending aorta to indirectly assist the heart
+
+-   Balloon inflates during **diastole** synchronously with closure of the aortic valve
+
+-   Helium filled balloons (earlier renditions were filled with CO~2~, which was soluble and problematic if ruptured).
+
+    -   Helium is less soluble, so leak would be problematic.
+
+-   Rapid deflation of the balloon causes negative pressure, ↓ aortic pressure, ↓ afterload, ↓ period of isovolumetric contraction
+
+-   Benefit over the entire cardiac cycle → net benefit is a reduction in LV cardiac work and myocardial oxygen consumption
+
+    -   **early diastole**: inflates to improve coronary arterial perfusion
+        -   balloon will start to inflate when systole ends, AV closes
+    -   **systole**: deflates to provide assistance with afterload reduction
+
+-   IABP helps with hemodynamics
+
+    -   ↓ afterload, ↓ O2 consumption
+    -   ↓ LV wall stress and myocardial O~2~ demand
+        -   31% reduction in myocardial oxygen demand
+    -   Improves cardiac output by ↑ stroke volume
+        -   Up to 24% increase in Cardiac Index
+        -   ↑ CO nearly 0.5 L/min
+
+-   Based on fact that most coronary percussion occurs during diastole
+
+    -   Enhances diastolic blood flow
+
+-   May help with acute RV failure
+
+-   Improved RV hemodynamics
+
+    -   IABP support can also improve RV hemodynamics, possibly related to ventricular interdependence. The reduction in LV filling pressures promotes more physiologic interventricular positioning, thereby improving the septal contribution to RV function.
+    -   believed to augment RV function in those with high right-sided filling pressures by increasing flow (diastolic \> systolic) through the right coronary artery.
+
+-   No improvement in survival based on studies, IABP-SHOCK II trial being the largest of them
+
+    -   ESC recommends against *routine* use of IABP support for Cardiogenic Shock (See @sec-cardiogenicshock)
+    -   ACC/AHA downgraded the use of IABP in patients failing pharmacologic therapy from a class I to IIa indication
+
+-   Modes
+
+    -   1:1 - every beat
+    -   1:2 - every other beat
+    -   1:3 - every third beat
+
+![](https://www.ahajournals.org/cms/asset/563e79e6-e624-4a93-9d96-20b81e723c87/712fig02.jpeg)
+
+-   Placement
+
+    -   An IABP can be implanted via the femoral artery or by means of percutaneous or axillary artery cut-down in a retrograde configuration, allowing for monitored patient ambulation.
+
+-   Advantages
+
+    -   Easy to place and remove
+    -   Cost effective (\$800-\$1000)
+    -   Low complication rate (bleeding, peripheral ischemia, sepsis, CVA)
+
+-   Disadvantages
+
+    -   When placed femoral, patient is on bedrest
+    -   Balloon can rupture
+    -   Infection
+    -   Device can move -- should have daily CXR
+
+## Indications
+
+-   Acute congestive heart failure exacerbation with hypotension
+-   MI with ↓ LV function leading to hypotension
+-   MI with complications causing cardiogenic shock
+-   Low cardiac output after CABG
+-   Bridge to definitive treatment in patients with:
+    -   Intractable angina or myocardial ischemia
+    -   Refractory heart failure
+    -   Intractable ventricular arrhythmias
+-   Prophylaxis or adjunct treatment in high risk PCI
+
+## Contraindications
+
+> Contraindications primarily center on severe AI (can worsen regurgitation) or other aortopathy
+
+-   Moderate to severe Al
+-   Aortic dissection
+-   Severe PVD
+-   Uncontrolled bleeding diathesis
+-   Uncontrolled sepsis
+
+## Monitoring
+
+-   Daily CXR to make sure balloon hasn't migrated.
+    -   Use anatomical landmarks: carina (preferred by Dr. Hart) or 2nd rib
+-   Check pulses, especially if PAD
+
+## Complications
+
+-   Complications include limb ischemia, leak
+-   Thrombosis: anticoagulant unless reason not to
+    -   Should not be on 1:3 for more than 30 minutes
+-   Rupture: blood can get in balloon and cause clots. If blood in line, this is clue balloon is compromised and you should remove the balloon promptly

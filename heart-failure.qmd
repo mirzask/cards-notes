@@ -116,16 +116,31 @@ Neprolysin inhibitors (ARNIs) can artificially ↑ BNP
 -   **Diuretics** - see NEJM review [article](https://www.nejm.org/doi/full/10.1056/NEJMra1703100)
     -   Goal fluid removal
         -   HFpEF: 1-2L net negative per day
+
         -   HFrEF: at least 2L net neg per day ("as much as Cr and BP will tolerate")
+
         -   If the diuretic response has not begun within a couple hours, increase the dose immediately instead of waiting until the next scheduled dose.
+
         -   **Loops**, such as Lasix, Bumex, Torsemide
+
             -   Conversions: 40 mg PO Lasix = 20 mg PO torsemide = 1 mg Bumex
             -   Lasix dosing:
                 -   BUN x 2
                 -   House of God - BUN + age
                 -   Joel Topf - Cr x 20
-            -   Dosing during *acute episode* - $\text{home dose} \times 2$ in IV form administered BID/TID for 48-72hrs (Clyde Yancy)
+            -   Dosing during *acute episode* - (Clyde Yancy)
                 -   DOSE trial - no diff b/w continuous diuresis vs intermittent IV boluses
+
+                -   Clyde Yancy: $\text{home dose} \times 2$ in IV form administered BID/TID for 48-72hrs
+
+                -   Ellison & Felker bring up a few points about the DOSE trial including: [@Ellison2017]
+
+                    -   gtt were not routinely preceded by a loading dose
+
+                    -   initial rates of 5 mg/hr (low-dose regimen) and 10 mg/hr (high-dose regimen) are often lower than recommended
+
+            ![](images/paste-17491225.png)
+
             -   NEJM tidbits:
                 -   PO Lasix bioavailability is highly variable (mean, approximately 50%; range, 10 to 90). By contrast, bumex and torsemide have higher and more consistent oral bioavailability.
                 -   PO and IV doses of bumex and torsemide are equivalent b/c they do not have absorption-limited kinetics
@@ -134,10 +149,13 @@ Neprolysin inhibitors (ARNIs) can artificially ↑ BNP
                 -   Remember that during acute decompensated HF, Na retention is more avid
             -   Bob Centor gives Torsemide (prefers once daily) to new HF pts and existing HF pts who req'd metolazone during hospitalization. He'll then Rx metolazone PRN (based on daily weights). ([Source](https://twitter.com/medrants/status/1167765807776092160))
             -   Michelle Kittleson recommends transitioning to an oral diuretic dose before discharge that results in 500 cc net negative in 24 hours (expert opinion). Rationale: Patients eat and drink more at home. ([Source](https://thecurbsiders.com/podcast/230))
+
         -   **Aldosterone antagonists**
+
             -   CrCl \> 30 + K \< 5
             -   useful in HFpEF pts w/ elevated BNP
             -   start at 12.5 mg daily w/ repeat K, Cr in 1 week
+
         -   **Metolazone** can take \> 24 hrs for the effect to be seen (Dr. Ooi)
 -   **SGLT2i** (e.g. dapagliflozin)
     -   DAPA-HF trial: Among individuals with HFrEF (NYHA 2-4, LVEF ≤40%) with or without T2DM, the addition of dapagliflozin decreased rates of CV death or worsening HF, as well as all-cause mortality. [@mcmurray2019]

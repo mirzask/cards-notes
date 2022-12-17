@@ -1,5 +1,85 @@
 # Impella {#sec-impella}
 
+- Impella microaxial flow pumps are placed fluoroscopically in retrograde fashion through the femoral artery, axillary artery, or ascending aorta
+- Blood 🩸 is suctioned from an inlet (located just superior to the catheter’s pigtail in the LV cavity) and then delivered through the Impella outlet, which is seated just above the aortic valve.
+- The distal portion of the Impella is a pigtail configuration that is meant to reside in the mid LV approximately ==3.5 cm below the aortic annulus==.
+- Uses: high-risk PCI, post-MI shock, ADHF, post-cardiotomy shock, etc.
+- Complications
+	- hemolysis
+	- pigment-induced nephropathy
+	- vascular access complications, e.g. limb ischemia, major bleeding
+	- pericardial tamponade
+	- MV impingement w/ mitral regurgitation
+	- thrombosis → device failure
+-   Two main ways it helps:
+    -   unloading (↓ EDV and EDV) and
+    -   outflow (↑ flow)
+- Unloads the LV by continuously drawing blood from LV
+	- ↓ LV work and myocardial O~2~ demand
+	- ↑ MAP and CO
+	- Improved systemic perfusion and coronary blood flow
+	- ↓ PCWP
+	- Reduction in RV afterload
+-   5.5 is bigger and runs at lower rpm; less hemolysis than 3.5 or CP
+
+::: {.callout-note}
+"BiPELLA": combination of LV and RV Impella support devices
+:::
+
+- **CP** - Catheter diameter is 9 Fr, 14 Fr pump motor
+	- 14 Fr sheath
+	- Peak flows up to 4.3 L/min
+	- Advantages
+	  - Quick Percutaneous placement
+	  - Axillary or femoral
+	- Disadvantages
+	  - Expensive ($25k)
+	  - Higher vascular complications
+	  - Can move with femoral placement
+	  - More hemolysis and thrombocytopenia
+	  - Difficulty mobilizing
+- **5.5** - catheter diameter is 9 Fr, 19 Fr pump motor
+	- 21 Fr cannula in 10mm Hemashield graft
+	- Peak flows up to 6.0 L/min (even though its called "5.5")
+	- Advantages
+	  - Stable positioning
+	  - Good flows
+	  - No pigtail
+	  - Patient can mobilize
+  - Disadvantages
+    - Expensive ($45k)
+	  - Surgical placement and removal
+- Purge solution is used through the impella catheter
+	- One or the other - NOT used together
+		- D5W with 25 or 50 IU/ml Heparin
+		- D5W with 25 or 50 mEq/L Sodium Bicarbonate
+			- especially if indication not to use heparin
+- Inlet should be approximately 5cm into the LV
+
+## Indications
+
+- Cardiogenic shock
+- Treatment of acute MI complicated by cardiogenic shock
+- Facilitate high risk PCI
+- Cardiomyopathy with acute decompensation
+- Postcardiotomy cardiogenic shock
+- Off pump CABG
+- Hemodynamic support during ablation for VT
+- Temporary mechanical support as bridge to VAD or transplant
+- Temporary mechanical support as bridge to recovery
+
+## Contraindications
+
+- Presence of thrombus in the LV
+- Moderate to severe aortic insufficiency
+	- Will worsen Al and LV dilation
+- Aortic Stenosis with AVA 0.6cm2 or less
+- Severe PVD
+	- May still place axillary or direct aortic approaches
+- Presence of mechanical aortic valve
+- ASD or VSD
+- LV rupture or cardiac tamponade
+
 ## Important Numbers
 
 -   Goals
@@ -29,10 +109,23 @@
 -   Address positioning alarms
 -   If you do have to move the catheter to reposition, turn down to P-2
 
+## Malpositioned Impella
+
+-   Impella in Ventricle
+    -   Appearance on monitor: flat motor current + ventricular placement signal
+-   Impella in Atrium
+    -   Appearance on monitor: flat motor current + atrial placement signal
+
+## Handling Device Migration
+
+-   Reduce to P2
+-   Under echo guidance, reposition to 3.5 cm below the AV.
+-   If fails, then will need to go to the cath lab for repositioning under fluoro guidance
+
 ## Persistent Suction Alarms
 
 |                               | CVP ≤ 12            | CVP \> 12                          |
-|-------------------------------|---------------------|------------------------------------|
+|-------------------------|------------------|-----------------------------|
 | Persistent Suction Alarm      | *Low* volume status | Strongly consider Right ❤️ Support |
 | *No* Persistent Suction Alarm | No action           | *High* volume status               |
 
@@ -68,6 +161,15 @@ Check right heart function if persistent suction alarms despite good volume stat
 -   How to resolve?
     -   Check Impella position \> Check filling and volume status
 
+## Handling aberrant purge pressure
+
+-   **High** purge pressure?
+    -   Look for kinks in tubing
+    -   Can ↓ dextrose in purge solution
+-   **Low** purge pressure?
+    -   Check for leaks
+    -   Can ↑ dextrose in purge solution
+
 ## Bleeding Troubleshooting
 
 -   ACT should be maintained between 160-180
@@ -82,15 +184,39 @@ If butterfly is flat against the skin, use 4x4s to angle match and reduce lift o
 
 ![](images/paste-ABF0A756.png){#fig-impella-butterfly width="479"}
 
+-    Dr. Hart also mentioned that the following figure 8 suturing technique may be useful to help with access site bleeding (oozing) [@Aytemir2016]
+
+![](images/paste-D99DA082.png)
+
 ## Suspected Hemolysis
 
 ::: callout-warning
 You should suspect hemolysis if the urine color is red!
 :::
 
+-   Potential obstruction at different levels
+    -   Inflow obstruction
+    -   Cannula obstruction
+    -   Outflow obstruction
 -   Rule out blood in urine
     -   Check a UA (fastest)
     -   Check *plasma free* Hemoglobin
     -   Check spun plasma color if *plasma free* Hemoglobin is unavailable
+    -   Check LDH
 -   Consider giving volume if hemolysis + CVP or PCWP \< 10 mmHg
 -   Assess the position of the Impella using Echo
+    -   Unobstructed inflow
+
+    -   Approx. 3.5 cm distal to the aortic valve
+
+    -   Free from anterior mitral leaflet
+
+    -   Free from sub-annular structures
+
+    -   Outflow well above the aortic valve
+
+    -   Stable position that does *not* migrate
+
+    -   Reduce flow as tolerated
+
+    -   Pump removal if needed
