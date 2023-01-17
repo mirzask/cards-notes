@@ -20,10 +20,14 @@
 The nurses have shift change at 7PM, so it is important to quickly round on the CICU patients before then to get a "warm" handoff or troubleshoot any issues because they are most familiar with the days events and progress.
 :::
 
+## Voalte
+
+- The Voalte site code is **slhmci** (this'll come in handy if you get a new phone)
+
 ## Flavors of Admissions
 
 :::{.callout-caution}
-You will _not_ add a cosigner to your notes. Make sure to **Share** your note, rather than clicking Sign!
+~~You will _not_ add a cosigner to your notes. Make sure to **Share** your note, rather than clicking Sign!~~ 👈 This used to be how we do things. Now, make sure to add the appropriate cosigner to your note.
 :::
 
 - ✍️ When creating a new note, click on the "deck of cards" for SmartText lookup. Select the appropriate SmartText, e.g. `CAR H&P` from the list.
@@ -110,3 +114,11 @@ Admit (27) Sinus brady d/t ...
 
 - Option 1: talk to the ED and see if it can be processed as an ED encounter and you will just write a consult note.
 - Option 2: if ED has decided to admit the patient to your service, you have to put in an admission order and H&P for it to be processed as an "inpatient" encounter. You can then discharge them from the ED. If you get a pop-up asking why less than 2 nights, add comment (e.g. improved faster than anticipated or has close follow-up ordered). You will then need to write a discharge summary (some keep this brief, i.e. "see H&P from today").
+
+## Release meds in MAR hold after pt returns from cath lab
+
+1. Go to Orders tab
+2. Click the down arrow button to the left of the wrench icon where all of your Orders, Chart Review, etc. tabs are located
+3. Select 'Release MAR Hold'
+  1. I favorited this b/c this seems to happen often enough.
+4. The 'Continue Unselected' button is your friend.

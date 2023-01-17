@@ -1,0 +1,16 @@
+# TMC/UH Tips
+
+- Remote access
+  - Access Cerner at https://trummo.cernerworks.com/
+  - Access TMC/UH Muse and Intellispace at https://portal.tmcmed.org/
+    - Enter your TMC login → enter 2FA code texted to you → TMC Citrix apps include Muse and Intellispace
+    
+- Getting the TMC/UH printer to work in clinic
+  - Type 'printer' in the Windows search → Access 'Printers & Scanners' settings
+  - Unselect 'Let Windows manage my default printer'
+  - Select the appropriate printer name: 'CARD on TMCFP1.TMC.INT'
+  - Troubleshooting: What if I can't find 'CARD on TMCFP1.TMC.INT'?
+    - If you can't find the printer name by searching for it, click 'The printer I want isn't listed'
+    - Then click option 3: 'Select a shared printer by name'
+    - In the box, enter the following: "\\TMCFP1.TMC.INT\CARD"
+    - It should now install the driver and setup things for you

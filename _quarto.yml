@@ -10,6 +10,7 @@ book:
     - part: "Hospital & EMR Info"
       chapters: 
         - inhouse-shifts.qmd
+        - tmc-tips.qmd
     - part: "Numbers & Metrics"
       chapters:
         - pulse-pressure.qmd
