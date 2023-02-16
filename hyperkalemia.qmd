@@ -1,0 +1,39 @@
+# Hyperkalemia
+
+    # Hyperkalemia
+    - Check BS (hyperglycemia/DKA/HHS), CK, LDH
+      - increased AST may be a clue towards cell lysis as cause
+    - Re-check K, CBC (thrombocytosis, hemolysis, WBC > 50k)
+    - EKG
+    - PVR
+    - Medication review: ACEi/ARB, NSAIDs, -azole, heparin/LMWH, TMP/SMX, tacrolimus, spiro
+    - Consider telemetry
+    - Consider other causes:
+           - Increased production: TLS (KcUP), rhabdo, high K diet
+           - Decreased excretion: AKI/CKD, hypOaldosteronism, volume depletion, type 4 RTA
+           - Cellular shift: insulin def, beta-blockers, cell death, acidemia
+    - Treatment:
+            - r/o urinary obstruction and hyperglycemia
+            - 1L NS, followed by IV Lasix (Topf's dose: Cr x 20)
+            - Regular insulin 10U IV + D50 (25g glucose) if BS < 250
+            - Patiromer
+            - Calcium gluconate - 3g IV over 10 mins (lasts 30-60 mins)
+              - Calcium chloride has faster onset, but can cause tissue necrosis (should be infused via central access)
+    - LR preferable if no metabolic acidosis
+    - Low K diet (exclude from fluids, TPN, etc.)
+
+[![Causes to review for Hyperkalemia](images/paste-89624EAF.png)](http://pbfluids.com/2017/09/the-fluid-electrolyte-and-acid-base-companion/)
+
+## EKG Changes
+
+![Hyperkalemia ECG Findings](https://mirzask.github.io/med-notes/figs/hyperK.gif)
+
+-   Peaked T-waves
+
+-   Flattening/loss of P wave (loss of atrial contraction)
+
+-   Increased PR interval and widening of QRS complex
+
+-   If severe, \'sine wave\' pattern
+
+> Severe hyperkalemia (e.g. K \> 7) can occur without obvious EKG changes [Source](https://emcrit.org/ibcc/hyperkalemia/)

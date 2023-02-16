@@ -102,6 +102,9 @@ book:
         - entresto.qmd
         - steroids.qmd
         - immunosuppressants.qmd
+    - part: "Medicine"
+      chapters:
+        - hyperkalemia.qmd
     - summary.qmd
     - references.qmd
 

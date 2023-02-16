@@ -49,3 +49,5 @@ po/*~
 rsconnect/
 
 # Quarto .gitgnore stuff
+
+/.luarc.json
