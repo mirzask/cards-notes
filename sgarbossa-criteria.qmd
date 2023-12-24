@@ -1,8 +1,0 @@
-# Sgarbossa Criteria for AMI in patient with LBBB
-
-- Recall, in LBBB  we expect *appropriate discordance* ('appropriate' as opposed to 'excessive'), i.e. the ST segments and T waves will deflect in the *opposite* direction of the QRS complex
-- tl;dr: *concordance* is bad, *excessive discordance* is also bad
-- **Modified Sgarbossa Criteria**
-    - ≥ 1 lead with ≥ 1 mm of concordant ST elevation (check all leads! concordant ST elevation in *any* single lead may suggest AMI)
-    - ≥ 1 lead of V1-V3 with ≥ 1 mm of concordant ST depression
-    - ≥ 1 lead anywhere with ≥ 1 mm STE and proportionally excessive discordant STE (defined by ≥ 25 of the depth of the preceding S-wave)

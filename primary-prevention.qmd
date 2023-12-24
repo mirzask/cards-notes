@@ -1,6 +1,0 @@
-# Primary Prevention
-
-- TODO
-  - Bays HE, Agarwala A, German C, et al. Ten things to know about ten cardiovascular disease risk factors – 2022. American Journal of Preventive Cardiology. 2022;10:100342. doi:10.1016/j.ajpc.2022.100342 [@bays2022]
-    - The ten CVD risk factors include unhealthful dietary intake, physical inactivity, dyslipidemia, pre-diabetes/diabetes, high blood pressure, obesity, considerations of select populations (older age, race/ethnicity, and sex differences), thrombosis (with smoking as a potential contributor to thrombosis), kidney dysfunction and genetics/familial hypercholesterolemia.
-    - Has some pretty explicit info on these risk factors, which may be useful to convert to Epic notes, patient instructions, etc.

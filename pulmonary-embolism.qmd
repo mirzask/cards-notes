@@ -1,7 +1,0 @@
-# Pulmonary Embolism
-
-TODO
-
--   Check out https://www.nejm.org/doi/full/10.1056/NEJMcp2116489
-
-![](images/paste-CE1D5AA4.png){width="700"}

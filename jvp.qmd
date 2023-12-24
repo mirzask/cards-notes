@@ -1,6 +1,0 @@
-# Jugular Venous Pressure
-
-TODO
-
-- Andre Mansoor PDX material
-- POCUS to estimate JVP is pretty damn good [@wang2022]

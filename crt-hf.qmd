@@ -1,7 +1,0 @@
-# Indications for CRT
-
-1.  NYHA Class 3 or 4 HF
-2.  Sinus rhtyhm
-3.  LVEF ≤ 35%
-4.  QRS \> 120 msecs if LBBB *or* QRS \> 150 msecs if non-LBBB
-5.  On optimal medical therapy

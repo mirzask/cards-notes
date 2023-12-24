@@ -1,7 +1,0 @@
-# Cardiac Tamponade {#sec-tamponade}
-
--   Diagnosis
-    -   JVD
-    -   Tachycardia
-    -   Pulsus paradoxus \> 12 mmHg
-    -   Beck triad - hypOtension, JVD, muffled ❤️ sounds
