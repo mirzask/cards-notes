@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Cardiology Notes - 24&nbsp; Heart Failure</title>
+<title>heart-failure</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,14 +17,15 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
 }
-.hanging div.csl-entry {
+.hanging-indent div.csl-entry {
   margin-left:2em;
   text-indent:-2em;
 }
@@ -38,19 +39,15 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
-}
-</style>
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./icd-hf.html" rel="next">
-<link href="./prinzmetal.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -62,6 +59,9 @@ div.csl-indent {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -78,571 +78,33 @@ div.csl-indent {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 </head>
 
-<body class="nav-sidebar floating">
+<body class="fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Heart Failure</span></h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
-      </button>
-    </div>
-  </nav>
-</header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">Cardiology Notes</a> 
-        <div class="sidebar-tools-main">
-  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-</div>
-    </div>
-      </div>
-      <div class="mt-2 flex-shrink-0 align-items-center">
-        <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
-        </div>
-      </div>
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Preface</a>
-  </div>
-</li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Hospital &amp; EMR Info</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./inhouse-shifts.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">In-House Moonlighting</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Numbers &amp; Metrics</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./pulse-pressure.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Pulse Pressure</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Cardiology Fundamentals</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./hypertension.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Hypertension</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./orthostatic-hypotension.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Orthostatic Hypotension</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./primary-prevention.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Primary Prevention</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./cad.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Coronary Artery Disease (CAD)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./cholesterol.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Cholesterol Management</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./t2dm.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Diabetes Mellitus</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./stress-tests.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Cardiac Stress Tests</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./troponinemia.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Troponinemia</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./syncope.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Syncope</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./heart-monitors.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Cardiac Rhythm Monitors</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./pulmonary-htn.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Pulmonary Hypertension</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./smoking-cessation.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Tobacco &amp; Smoking Cessation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./weight-loss.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Exercise &amp; Weight Loss</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">Physical Exam</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./jvp.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Jugular Venous Pressure</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">Chest Pain &amp; ACS</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./chest-pain.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Chest Pain</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./acs.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Acute Coronary Syndrome</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./sgarbossa-criteria.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Sgarbossa Criteria for AMI in patient with LBBB</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./minoca.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">MINOCA</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./pericarditis.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Pericarditis</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./pulmonary-embolism.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Pulmonary Embolism</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./prinzmetal.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Prinzmetal Angina</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">Heart Failure</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./heart-failure.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Heart Failure</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./icd-hf.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Indications for ICD (primary prevention)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./crt-hf.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Indications for CRT</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./hocm.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Hypertrophic cardiomyopathy</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">Rhythm</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-7" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./bradycardia.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Bradycardia</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./afib.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Atrial Fibrillation</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./wpw.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Wolff-Parkinson-White Syndrome</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./complete-heart-block.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Complete Heart Block</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./pvc.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Premature ventricular contractions (PVCs)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./supraventricular-tachy.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Supraventricular Tachycardia (SVT)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./ventricular-tachy.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Ventricular Tachyarrhythmias</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./qt-prolong.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">QT Prolongation</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">Valvular disorders</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-8" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./pad.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Peripheral Vascular Disease</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./aortic-stenosis.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Aortic Stenosis</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./prosthetic-valves.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Mechanical/Bioprosthetic Heart Valves</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">Vascular disorders</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-9" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./carotid-artery-stenosis.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">39</span>&nbsp; <span class="chapter-title">Carotid artery stenosis</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./renal-artery-stenosis.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">Renal artery stenosis</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" aria-expanded="true">CICU</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-10" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./cardiogenic-shock.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">41</span>&nbsp; <span class="chapter-title">Cardiogenic Shock</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./post-cardiacarrest.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">42</span>&nbsp; <span class="chapter-title">Post Cardiac Arrest Care</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./mcs.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Mechanical Circulatory Support</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./iabp.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Intra-Aortic Balloon Pump</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./impella.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Impella</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./constrictive-pericarditis.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Constrictive Pericarditis</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" aria-expanded="true">Emergencies</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-11" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-11" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./acls.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Advanced Cardiovascular Life Support (ACLS)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./mi-complications.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">48</span>&nbsp; <span class="chapter-title">MI Complications</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./pericardial-effusion.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">49</span>&nbsp; <span class="chapter-title">Pericardial Effusion</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./tamponade.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">50</span>&nbsp; <span class="chapter-title">Cardiac Tamponade</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./hypertensive-crises.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">51</span>&nbsp; <span class="chapter-title">Hypertensive Crises</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <span class="sidebar-item-text sidebar-link text-start">Cardio-Obstetrics</span>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" aria-expanded="true">ECG</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-13" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-13" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./ecg-approach.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">52</span>&nbsp; <span class="chapter-title">Approach to reading ECGs</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./bbb.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">53</span>&nbsp; <span class="chapter-title">Bundle Branch Blocks</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./fascicular-blocks.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">54</span>&nbsp; <span class="chapter-title">Fascicular Blocks</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./brugada-syndrome.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">55</span>&nbsp; <span class="chapter-title">Brugada Syndrome</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./st-elevation.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">56</span>&nbsp; <span class="chapter-title">ST-segment elevation</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-14" aria-expanded="true">Waveforms</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-14" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-14" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./ra-waveform.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">57</span>&nbsp; <span class="chapter-title">Right Atrial/CVP Waveform</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" aria-expanded="true">Pharmacology</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" aria-expanded="true">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-15" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./aspirin.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">58</span>&nbsp; <span class="chapter-title">Aspirin</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./p2y12.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">59</span>&nbsp; <span class="chapter-title">P2Y<sub>12</sub> Inhibitors</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./statins.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">60</span>&nbsp; <span class="chapter-title">Statins</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./antiHTN.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">61</span>&nbsp; <span class="chapter-title">Anti-Hypertensive Medications</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./thiazides.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">62</span>&nbsp; <span class="chapter-title">Thiazide Diuretics</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./entresto.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">63</span>&nbsp; <span class="chapter-title">Sacubitril/Valsartan</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./steroids.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">64</span>&nbsp; <span class="chapter-title">Steroids</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./immunosuppressants.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">65</span>&nbsp; <span class="chapter-title">Immunosuppressants</span></a>
-  </div>
-</li>
-      </ul>
-  </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./summary.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">66</span>&nbsp; <span class="chapter-title">Summary</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link">References</a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#note" id="toc-note" class="nav-link active" data-scroll-target="#note"><span class="toc-section-number">24.1</span>  Note</a></li>
-  <li><a href="#todo" id="toc-todo" class="nav-link" data-scroll-target="#todo"><span class="toc-section-number">24.2</span>  TODO</a></li>
-  <li><a href="#classifications-of-hf" id="toc-classifications-of-hf" class="nav-link" data-scroll-target="#classifications-of-hf"><span class="toc-section-number">24.3</span>  Classifications of HF</a></li>
-  <li><a href="#precipitants-of-hf" id="toc-precipitants-of-hf" class="nav-link" data-scroll-target="#precipitants-of-hf"><span class="toc-section-number">24.4</span>  Precipitants of HF</a></li>
-  <li><a href="#work-up" id="toc-work-up" class="nav-link" data-scroll-target="#work-up"><span class="toc-section-number">24.5</span>  Work-up</a></li>
-  <li><a href="#medications" id="toc-medications" class="nav-link" data-scroll-target="#medications"><span class="toc-section-number">24.6</span>  Medications</a></li>
-  <li><a href="#lifestyle-modifications" id="toc-lifestyle-modifications" class="nav-link" data-scroll-target="#lifestyle-modifications"><span class="toc-section-number">24.7</span>  Lifestyle Modifications</a></li>
-  <li><a href="#diuretic-resistance" id="toc-diuretic-resistance" class="nav-link" data-scroll-target="#diuretic-resistance"><span class="toc-section-number">24.8</span>  “Diuretic Resistance”</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title"><span id="sec-heartfailure" class="quarto-section-identifier d-none d-lg-block"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Heart Failure</span></span></h1>
-</div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<section id="note" class="level2" data-number="24.1">
-<h2 data-number="24.1" class="anchored" data-anchor-id="note"><span class="header-section-number">24.1</span> Note</h2>
+<section id="sec-heartfailure" class="level1">
+<h1>Heart Failure</h1>
+<section id="note" class="level2">
+<h2 class="anchored" data-anchor-id="note">Note</h2>
 <pre class="text"><code>Acute (on chronic?) systolic (or diastolic) dysfunction - 
 - ACC/AHA Stage ***, NYHA Class ***, Stevenson Profile *** (A, B, C, L)
 - *** Exam with S3, elevated JVP, skin is warm, dry
@@ -681,14 +143,14 @@ as are studies in pts w/ HFpEF.
   - Daily home weights; procure weigh scale if needed
   - f/u in clinic w/in 1 week of discharge; f/u K, Cr and meds</code></pre>
 </section>
-<section id="todo" class="level2" data-number="24.2">
-<h2 data-number="24.2" class="anchored" data-anchor-id="todo"><span class="header-section-number">24.2</span> TODO</h2>
+<section id="todo" class="level2">
+<h2 class="anchored" data-anchor-id="todo">TODO</h2>
 <ul>
-<li>Include JCF paper “A Stepwise Guide to the Diagnosis and Treatment of HFpEF” <span class="citation" data-cites="vaishnav2022">(<a href="references.html#ref-vaishnav2022" role="doc-biblioref">Vaishnav and Sharma 2022</a>)</span></li>
+<li>Include JCF paper “A Stepwise Guide to the Diagnosis and Treatment of HFpEF” <span class="citation" data-cites="vaishnav2022">(<a href="#ref-vaishnav2022" role="doc-biblioref">Vaishnav and Sharma 2022</a>)</span></li>
 </ul>
 </section>
-<section id="classifications-of-hf" class="level2" data-number="24.3">
-<h2 data-number="24.3" class="anchored" data-anchor-id="classifications-of-hf"><span class="header-section-number">24.3</span> Classifications of HF</h2>
+<section id="classifications-of-hf" class="level2">
+<h2 class="anchored" data-anchor-id="classifications-of-hf">Classifications of HF</h2>
 <ul>
 <li>HF = Si/Sx of HF caused by a structural and/or functional cardiac abnormality <em>plus</em> one of the following:
 <ul>
@@ -702,14 +164,14 @@ as are studies in pts w/ HFpEF.
 <li>Source: <a href="https://twitter.com/thecurbsiders/status/1387759083906813952">Curbsiders tweet from Dr.&nbsp;Yancy’s presentation</a></li>
 </ul>
 </section>
-<section id="precipitants-of-hf" class="level2" data-number="24.4">
-<h2 data-number="24.4" class="anchored" data-anchor-id="precipitants-of-hf"><span class="header-section-number">24.4</span> Precipitants of HF</h2>
-<div class="callout-warning callout callout-style-default callout-captioned">
+<section id="precipitants-of-hf" class="level2">
+<h2 class="anchored" data-anchor-id="precipitants-of-hf">Precipitants of HF</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Warning
 </div>
 </div>
@@ -729,8 +191,8 @@ Warning
 <li><strong>S</strong>tenosis from worsening renal artery stenosis, aortic stenosis, or other valvular disease.</li>
 </ul>
 </section>
-<section id="work-up" class="level2" data-number="24.5">
-<h2 data-number="24.5" class="anchored" data-anchor-id="work-up"><span class="header-section-number">24.5</span> Work-up</h2>
+<section id="work-up" class="level2">
+<h2 class="anchored" data-anchor-id="work-up">Work-up</h2>
 <ul>
 <li>Exam
 <ul>
@@ -747,12 +209,12 @@ Warning
 </ul></li>
 <li><strong>Na</strong><sup>+</sup> &lt; 125 or ↓ by &gt; 3 during admission is associated with ↑ mortality</li>
 </ul>
-<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-caption-container flex-fill">
+<div class="callout-title-container flex-fill">
 Note
 </div>
 </div>
@@ -783,16 +245,16 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://twitter.com/jcortesizaguirr/status/1295724533505236993?lang=en"><img src="images/paste-33F521BA.png" class="img-fluid figure-img"></a></p>
-<p></p><figcaption class="figure-caption">Heart Failure Schema (by Jorge Cortes)</figcaption><p></p>
+<figcaption class="figure-caption">Heart Failure Schema (by Jorge Cortes)</figcaption>
 </figure>
 </div>
 </section>
-<section id="medications" class="level2" data-number="24.6">
-<h2 data-number="24.6" class="anchored" data-anchor-id="medications"><span class="header-section-number">24.6</span> Medications</h2>
+<section id="medications" class="level2">
+<h2 class="anchored" data-anchor-id="medications">Medications</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://twitter.com/gcfmd/status/1292201515914936320"><img src="images/paste-D16E435A.png" class="img-fluid figure-img"></a></p>
-<p></p><figcaption class="figure-caption">Quadruple Therapy in HFrEF with demonstrable mortality benefit.</figcaption><p></p>
+<figcaption class="figure-caption">Quadruple Therapy in HFrEF with demonstrable mortality benefit.</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
@@ -803,15 +265,15 @@ Note
 <ul>
 <li><strong>Beta-blockers</strong>: metoprolol XL, carvedilol, bisoprolol</li>
 <li><strong>ACEi/ARB</strong></li>
-<li><strong>ARNI</strong> - sacubitril/valsartan (Entresto); See <a href="entresto.html"><span>Chapter&nbsp;63</span></a></li>
+<li><strong>ARNI</strong> - sacubitril/valsartan (Entresto); See <strong>?@sec-entresto</strong></li>
 <li><strong>Diuretics</strong> - see NEJM review <a href="https://www.nejm.org/doi/full/10.1056/NEJMra1703100">article</a>
 <ul>
 <li>Goal fluid removal
 <ul>
-<li>HFpEF: 1-2L net negative per day</li>
-<li>HFrEF: at least 2L net neg per day (“as much as Cr and BP will tolerate”)</li>
-<li>If the diuretic response has not begun within a couple hours, increase the dose immediately instead of waiting until the next scheduled dose.</li>
-<li><strong>Loops</strong>, such as Lasix, Bumex, Torsemide
+<li><p>HFpEF: 1-2L net negative per day</p></li>
+<li><p>HFrEF: at least 2L net neg per day (“as much as Cr and BP will tolerate”)</p></li>
+<li><p>If the diuretic response has not begun within a couple hours, increase the dose immediately instead of waiting until the next scheduled dose.</p></li>
+<li><p><strong>Loops</strong>, such as Lasix, Bumex, Torsemide</p>
 <ul>
 <li>Conversions: 40 mg PO Lasix = 20 mg PO torsemide = 1 mg Bumex</li>
 <li>Lasix dosing:
@@ -820,33 +282,46 @@ Note
 <li>House of God - BUN + age</li>
 <li>Joel Topf - Cr x 20</li>
 </ul></li>
-<li>Dosing during <em>acute episode</em> - <span class="math inline">\(\text{home dose} \times 2\)</span> in IV form administered BID/TID for 48-72hrs (Clyde Yancy)
+<li>Dosing during <em>acute episode</em> - (Clyde Yancy)
 <ul>
-<li>DOSE trial - no diff b/w continuous diuresis vs intermittent IV boluses</li>
+<li><p>DOSE trial - no diff b/w continuous diuresis vs intermittent IV boluses</p></li>
+<li><p>Clyde Yancy: <span class="math inline">\(\text{home dose} \times 2\)</span> in IV form administered BID/TID for 48-72hrs</p></li>
+<li><p>Ellison &amp; Felker bring up a few points about the DOSE trial including: <span class="citation" data-cites="Ellison2017">(<a href="#ref-Ellison2017" role="doc-biblioref">n.d.</a>)</span></p>
+<ul>
+<li><p>gtt were not routinely preceded by a loading dose</p></li>
+<li><p>initial rates of 5 mg/hr (low-dose regimen) and 10 mg/hr (high-dose regimen) are often lower than recommended</p></li>
 </ul></li>
+</ul></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/paste-17491225.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/paste-17491225.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+<ul>
 <li>NEJM tidbits:
 <ul>
 <li>PO Lasix bioavailability is highly variable (mean, approximately 50%; range, 10 to 90). By contrast, bumex and torsemide have higher and more consistent oral bioavailability.</li>
 <li>PO and IV doses of bumex and torsemide are equivalent b/c they do not have absorption-limited kinetics</li>
 <li>Torsemide has a longer half-life in pts w/ HF (6 hrs) than Lasix (2.7 hrs) or Bumex (1.3 hrs). Thus, in theory torsemide should be more effective, but the data doesn’t really pan out.</li>
-<li>Torsemide vs.&nbsp;Lasix: Torsemide reduces hospital readmissions for HF <span class="citation" data-cites="DiNicolantonio_2012">(<a href="references.html#ref-DiNicolantonio_2012" role="doc-biblioref">DiNicolantonio 2012</a>)</span></li>
+<li>Torsemide vs.&nbsp;Lasix: Torsemide reduces hospital readmissions for HF <span class="citation" data-cites="DiNicolantonio_2012">(<a href="#ref-DiNicolantonio_2012" role="doc-biblioref">DiNicolantonio 2012</a>)</span></li>
 <li>Remember that during acute decompensated HF, Na retention is more avid</li>
 </ul></li>
 <li>Bob Centor gives Torsemide (prefers once daily) to new HF pts and existing HF pts who req’d metolazone during hospitalization. He’ll then Rx metolazone PRN (based on daily weights). (<a href="https://twitter.com/medrants/status/1167765807776092160">Source</a>)</li>
 <li>Michelle Kittleson recommends transitioning to an oral diuretic dose before discharge that results in 500 cc net negative in 24 hours (expert opinion). Rationale: Patients eat and drink more at home. (<a href="https://thecurbsiders.com/podcast/230">Source</a>)</li>
 </ul></li>
-<li><strong>Aldosterone antagonists</strong>
+<li><p><strong>Aldosterone antagonists</strong></p>
 <ul>
 <li>CrCl &gt; 30 + K &lt; 5</li>
 <li>useful in HFpEF pts w/ elevated BNP</li>
 <li>start at 12.5 mg daily w/ repeat K, Cr in 1 week</li>
 </ul></li>
-<li><strong>Metolazone</strong> can take &gt; 24 hrs for the effect to be seen (Dr.&nbsp;Ooi)</li>
+<li><p><strong>Metolazone</strong> can take &gt; 24 hrs for the effect to be seen (Dr.&nbsp;Ooi)</p></li>
 </ul></li>
 </ul></li>
 <li><strong>SGLT2i</strong> (e.g.&nbsp;dapagliflozin)
 <ul>
-<li>DAPA-HF trial: Among individuals with HFrEF (NYHA 2-4, LVEF ≤40%) with or without T2DM, the addition of dapagliflozin decreased rates of CV death or worsening HF, as well as all-cause mortality. <span class="citation" data-cites="mcmurray2019">(<a href="references.html#ref-mcmurray2019" role="doc-biblioref">McMurray et al. 2019</a>)</span>
+<li>DAPA-HF trial: Among individuals with HFrEF (NYHA 2-4, LVEF ≤40%) with or without T2DM, the addition of dapagliflozin decreased rates of CV death or worsening HF, as well as all-cause mortality. <span class="citation" data-cites="mcmurray2019">(<a href="#ref-mcmurray2019" role="doc-biblioref">McMurray et al. 2019</a>)</span>
 <ul>
 <li>FDA approved SGLT2i in pts w/ HFrEF with or without T2DM.</li>
 </ul></li>
@@ -864,18 +339,18 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><a href="https://twitter.com/Jcortesizaguirr/status/1291351278040371200"><img src="images/cards-HF-cortes.jpeg" class="img-fluid figure-img"></a></p>
-<p></p><figcaption class="figure-caption">Heart Failure Schema (by Jorge Cortes)</figcaption><p></p>
+<figcaption class="figure-caption">Heart Failure Schema (by Jorge Cortes)</figcaption>
 </figure>
 </div>
 <p><strong>Resources</strong></p>
 <ul>
-<li>Patient Page: Heart Failure <span class="citation" data-cites="Baman_Ahmad_2020">(<a href="references.html#ref-Baman_Ahmad_2020" role="doc-biblioref">Baman and Ahmad 2020</a>)</span></li>
-<li>Association of Optimal Implementation of Sodium-Glucose Cotransporter 2 Inhibitor Therapy With Outcome for Patients With Heart Failure <span class="citation" data-cites="Bassi_Ziaeian_Yancy_Fonarow_2020">(<a href="references.html#ref-Bassi_Ziaeian_Yancy_Fonarow_2020" role="doc-biblioref">Bassi et al. 2020</a>)</span></li>
-<li>Heart Failure With Reduced Ejection Fraction: A Review <span class="citation" data-cites="Murphy_Ibrahim_Januzzi_2020">(<a href="references.html#ref-Murphy_Ibrahim_Januzzi_2020" role="doc-biblioref">Murphy, Ibrahim, and Januzzi 2020</a>)</span>
+<li>Patient Page: Heart Failure <span class="citation" data-cites="Baman_Ahmad_2020">(<a href="#ref-Baman_Ahmad_2020" role="doc-biblioref">Baman and Ahmad 2020</a>)</span></li>
+<li>Association of Optimal Implementation of Sodium-Glucose Cotransporter 2 Inhibitor Therapy With Outcome for Patients With Heart Failure <span class="citation" data-cites="Bassi_Ziaeian_Yancy_Fonarow_2020">(<a href="#ref-Bassi_Ziaeian_Yancy_Fonarow_2020" role="doc-biblioref">Bassi et al. 2020</a>)</span></li>
+<li>Heart Failure With Reduced Ejection Fraction: A Review <span class="citation" data-cites="Murphy_Ibrahim_Januzzi_2020">(<a href="#ref-Murphy_Ibrahim_Januzzi_2020" role="doc-biblioref">Murphy, Ibrahim, and Januzzi 2020</a>)</span>
 <ul>
 <li>The FDA approved use of the SGLT2 inhibitor dapagliflozin for treatment of HFrEF irrespective of diabetes status is expected to become GDMT for all patients with HFrEF in the 2021 ACC/AHA HF guidelines</li>
 </ul></li>
-<li>Quadruple Therapy is the New Standard of Care for HFrEF <span class="citation" data-cites="Ahmad_Desai_2020">(<a href="references.html#ref-Ahmad_Desai_2020" role="doc-biblioref">Ahmad and Desai 2020</a>)</span></li>
+<li>Quadruple Therapy is the New Standard of Care for HFrEF <span class="citation" data-cites="Ahmad_Desai_2020">(<a href="#ref-Ahmad_Desai_2020" role="doc-biblioref">Ahmad and Desai 2020</a>)</span></li>
 <li><strong>Podcasts</strong>
 <ul>
 <li><em>Acute Decompensated Heart Failure</em> (The Curbsiders): <a href="https://thecurbsiders.com/podcast/230">link</a></li>
@@ -885,8 +360,8 @@ Note
 <li>Why can furosemide improve dyspnea/pulmonary edema from acute congestive heart failure within minutes of administration?: 🧵 <a href="https://twitter.com/AvrahamCooperMD/status/1292134482812604418?s=20">thread</a></li>
 </ul>
 </section>
-<section id="lifestyle-modifications" class="level2" data-number="24.7">
-<h2 data-number="24.7" class="anchored" data-anchor-id="lifestyle-modifications"><span class="header-section-number">24.7</span> Lifestyle Modifications</h2>
+<section id="lifestyle-modifications" class="level2">
+<h2 class="anchored" data-anchor-id="lifestyle-modifications">Lifestyle Modifications</h2>
 <ul>
 <li>Less than 2L fluid or 2g salt per day</li>
 <li>Cardiac rehab</li>
@@ -896,8 +371,8 @@ Note
 <li>Sleep apnea Tx</li>
 </ul>
 </section>
-<section id="diuretic-resistance" class="level2" data-number="24.8">
-<h2 data-number="24.8" class="anchored" data-anchor-id="diuretic-resistance"><span class="header-section-number">24.8</span> “Diuretic Resistance”</h2>
+<section id="diuretic-resistance" class="level2">
+<h2 class="anchored" data-anchor-id="diuretic-resistance">“Diuretic Resistance”</h2>
 <ul>
 <li>Ensure adherence to fluid restriction + low-salt diet</li>
 <li>Ensure pt is not taking NSAIDs</li>
@@ -907,29 +382,33 @@ Note
 </ul>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography" style="display: none">
-<div id="ref-Ahmad_Desai_2020" class="csl-entry" role="doc-biblioentry">
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-Ellison2017" class="csl-entry" role="listitem">
+n.d.
+</div>
+<div id="ref-Ahmad_Desai_2020" class="csl-entry" role="listitem">
 Ahmad, Tariq, and Nihar R. Desai. 2020. <span>“Quadruple Therapy Is the New Standard of Care for HFrEF∗.”</span> <em>JACC: Heart Failure</em> 8 (10): 819–21. <a href="https://doi.org/10.1016/j.jchf.2020.06.004">https://doi.org/10.1016/j.jchf.2020.06.004</a>.
 </div>
-<div id="ref-Baman_Ahmad_2020" class="csl-entry" role="doc-biblioentry">
+<div id="ref-Baman_Ahmad_2020" class="csl-entry" role="listitem">
 Baman, Jayson R., and Faraz S. Ahmad. 2020. <span>“Heart Failure.”</span> <em>JAMA</em> 324 (10): 1015. <a href="https://doi.org/10.1001/jama.2020.13310">https://doi.org/10.1001/jama.2020.13310</a>.
 </div>
-<div id="ref-Bassi_Ziaeian_Yancy_Fonarow_2020" class="csl-entry" role="doc-biblioentry">
+<div id="ref-Bassi_Ziaeian_Yancy_Fonarow_2020" class="csl-entry" role="listitem">
 Bassi, Nikhil S., Boback Ziaeian, Clyde W. Yancy, and Gregg C. Fonarow. 2020. <span>“Association of Optimal Implementation of Sodium-Glucose Cotransporter 2 Inhibitor Therapy with Outcome for Patients with Heart Failure.”</span> <em>JAMA Cardiology</em> 5 (8): 948–51. <a href="https://doi.org/10.1001/jamacardio.2020.0898">https://doi.org/10.1001/jamacardio.2020.0898</a>.
 </div>
-<div id="ref-DiNicolantonio_2012" class="csl-entry" role="doc-biblioentry">
+<div id="ref-DiNicolantonio_2012" class="csl-entry" role="listitem">
 DiNicolantonio, James J. 2012. <span>“Should Torsemide Be the Loop Diuretic of Choice in Systolic Heart Failure?”</span> <em>Future Cardiology</em> 8 (5): 707–28. <a href="https://doi.org/10.2217/fca.12.54">https://doi.org/10.2217/fca.12.54</a>.
 </div>
-<div id="ref-mcmurray2019" class="csl-entry" role="doc-biblioentry">
+<div id="ref-mcmurray2019" class="csl-entry" role="listitem">
 McMurray, John J. V., Scott D. Solomon, Silvio E. Inzucchi, Lars Køber, Mikhail N. Kosiborod, Felipe A. Martinez, Piotr Ponikowski, et al. 2019. <span>“Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction.”</span> <em>New England Journal of Medicine</em> 381 (21): 1995–2008. <a href="https://doi.org/10.1056/NEJMoa1911303">https://doi.org/10.1056/NEJMoa1911303</a>.
 </div>
-<div id="ref-Murphy_Ibrahim_Januzzi_2020" class="csl-entry" role="doc-biblioentry">
+<div id="ref-Murphy_Ibrahim_Januzzi_2020" class="csl-entry" role="listitem">
 Murphy, Sean P., Nasrien E. Ibrahim, and Jr Januzzi James L. 2020. <span>“Heart Failure with Reduced Ejection Fraction: A Review.”</span> <em>JAMA</em> 324 (5): 488–504. <a href="https://doi.org/10.1001/jama.2020.10262">https://doi.org/10.1001/jama.2020.10262</a>.
 </div>
-<div id="ref-vaishnav2022" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vaishnav2022" class="csl-entry" role="listitem">
 Vaishnav, JOBAN, and Kavita Sharma. 2022. <span>“A Stepwise Guide to the Diagnosis and Treatment of Heart Failure with Preserved Ejection Fraction.”</span> <em>Journal of Cardiac Failure</em> 28 (6): 1016–30. <a href="https://doi.org/10.1016/j.cardfail.2021.12.013">https://doi.org/10.1016/j.cardfail.2021.12.013</a>.
 </div>
 </div>
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -1075,9 +554,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -1142,6 +635,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -1181,19 +760,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="./prinzmetal.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Prinzmetal Angina</span></span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="./icd-hf.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Indications for ICD (primary prevention)</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"loop":true,"closeEffect":"zoom","selector":".lightbox","descPosition":"bottom","openEffect":"zoom"});</script>
 
 
 
